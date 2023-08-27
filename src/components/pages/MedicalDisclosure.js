@@ -17,10 +17,10 @@ const MedicalDisclosure = () => {
 		setUserInput(event.target.value)
 	}
 	useEffect(() => {
-		if (chatHistoryRef.current) {
-			chatHistoryRef.current.scrollTop = chatHistoryRef.current.scrollHeight
+	
+			chatHistoryRef.current.scrollTop = chatHistoryRef.current.scrollHeight;
 			console.log(chatHistoryRef.current.scrollTop)
-		}
+		
 	}, [chatHistory])
 
 	const handleSubmit = () => {
@@ -60,8 +60,8 @@ const MedicalDisclosure = () => {
 	}
 
 	return (
-		<div className="chat-interface">
-			<div className="chat-history">
+		<div className="chat-interface" >
+			<div className="chat-history" ref={chatHistoryRef}>
 				{chatHistory.map((message, index) => (
 					<div
 						key={index}

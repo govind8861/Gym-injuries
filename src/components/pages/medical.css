@@ -1,6 +1,7 @@
 Add your own styles and adjust as needed */
 .chat-interface {
-  max-width: 400px;
+  max-width: 300px;
+  
   margin: auto;
   border: 1px solid #ccc;
   height: 100vh;
@@ -10,7 +11,7 @@ Add your own styles and adjust as needed */
 }
 
 .chat-history {
-  max-height: calc(100vh - 120px); /* Adjust the value as needed */
+  max-height: calc(100vh - 137px); /* Adjust the value as needed */
   display: flex;
   flex-direction: column;
   align-items: flex-start;
