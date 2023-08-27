@@ -1,4 +1,3 @@
-
 import './App.css'
 import Header from './components/Header'
 import MedicalDisclosure from './components/pages/MedicalDisclosure'
@@ -12,7 +11,7 @@ import Footer from './components/Footer'
 
 function App() {
 	return (
-		<div className='App'>
+		<div className="App">
 			<Header />
 			<Routes>
 				<Route path="/" element={<Home />} />
@@ -22,7 +21,7 @@ function App() {
 				<Route path="/contact" element={<Contact />} />
 				<Route path="/user" element={<User />} />
 			</Routes>
-			<Footer/>
+			<Footer />
 		</div>
 	)
 }

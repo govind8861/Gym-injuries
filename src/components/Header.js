@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { NavLink, Link } from 'react-router-dom'
 import './Header.css'
+import ScrollToTopLink from './ScrollToTop'
 
 const Header = () => {
 	const [openMenu, setOpenMenu] = useState(false)
@@ -10,9 +11,13 @@ const Header = () => {
 			<Link to="/" className="title">
 				<img
 					src="/assets/GymLogo.jpg"
-					style={{ height: '50px', width: '50px', borderRadius: '5px' }} alt =" &#8634;"
+					style={{ height: '50px', width: '50px', borderRadius: '5px' }}
+					alt=" &#8634;"
+					onClick={() => window.scrollTo(0, 0)}
 				></img>
-				<span className="ms-3 ">Fit Guard</span>
+				<span className="ms-3 " onClick={() => window.scrollTo(0, 0)}>
+					Fit Guard
+				</span>
 			</Link>
 			<div
 				className="menu"
@@ -25,28 +30,35 @@ const Header = () => {
 				<span></span>
 			</div>
 			<ul
-				className={openMenu ? 'open' : ''} style={{marginRight:'8px'}}
+				className={openMenu ? 'open' : ''}
+				style={{ marginRight: '8px' }}
 				onClick={() => {
 					setOpenMenu(false)
 				}}
 			>
 				<li>
-					<NavLink to="/">Home</NavLink>
+					<ScrollToTopLink to="/" activeClassName="active">
+						Home
+					</ScrollToTopLink>
 				</li>
 				<li>
-					<NavLink to="/about">About</NavLink>
+					<ScrollToTopLink to="/about" activeClassName="active">
+						About
+					</ScrollToTopLink>
 				</li>
 				<li>
-					<NavLink to="/medical">Medical Disclosure</NavLink>
+					<ScrollToTopLink to="/medical">Medical Disclosure</ScrollToTopLink>
 				</li>
 				<li>
-					<NavLink to="/feedback">Feedback</NavLink>
+					<ScrollToTopLink to="/feedback">Feedback</ScrollToTopLink>
 				</li>
 				<li>
-					<NavLink to="/contact">Contact</NavLink>
+					<ScrollToTopLink to="/contact">Contact</ScrollToTopLink>
 				</li>
 				<li>
-					<NavLink to="/user"><i className='fa fa-user' ></i>&nbsp;&nbsp;User</NavLink>
+					<ScrollToTopLink to="/user">
+						<i className="fa fa-user"></i>&nbsp;&nbsp;User
+					</ScrollToTopLink>
 				</li>
 			</ul>
 		</nav>

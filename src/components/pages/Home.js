@@ -1,7 +1,10 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { Link } from 'react-router-dom'
 
 const Home = () => {
+	useEffect(() => {
+		window.scrollTo({ top: 0, left: 0, behavior: 'smooth' })
+	}, [])
 	return (
 		<>
 			<hero>
@@ -11,7 +14,14 @@ const Home = () => {
 						<p>
 							Train smart, train safe with our expert injury prevention system.
 						</p>
-						<button className="cta-button rounded">Start Your Journey</button>
+						<button className="cta-button rounded">
+							<Link
+								to="/medical"
+								style={{ textDecoration: 'none', color: 'white' }}
+							>
+								Start Your Journey
+							</Link>
+						</button>
 					</div>
 				</div>
 			</hero>
@@ -87,16 +97,16 @@ const Home = () => {
 						</div>
 					</div>
 				</div>
-			<div class="injury-input-section mt-5">
-				<h2 class="section-title">Discover Personalized Solutions</h2>
-				<p class="section-description">
-					Answer a few questions about your injury to get expert insights.
-				</p>
-				<hr class="section-divider" />
-				<Link to="/medical" class="get-started-link ">
-					Get Started
-				</Link>
-			</div>
+				<div class="injury-input-section mt-5">
+					<h2 class="section-title">Discover Personalized Solutions</h2>
+					<p class="section-description">
+						Answer a few questions about your injury to get expert insights.
+					</p>
+					<hr class="section-divider" />
+					<Link to="/medical" class="get-started-link ">
+						Get Started
+					</Link>
+				</div>
 			</div>
 		</>
 	)
