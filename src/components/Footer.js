@@ -3,9 +3,9 @@ import './Footer.css'
 const Footer = () => {
 	return (
 		<div className="">
-			<footer class="app-footer container-fluid p-5">
+			<footer className="app-footer container-fluid p-5">
 				<div className="row">
-					<div class="footer-logo col-md-5">
+					<div className="footer-logo col-md-5">
 						<img src="/assets/GymLogo.jpg" alt="App Logo" className="ms-1" />
 						<span className="ms-3 h4 " style={{ fontWeight: 'bold' }}>
 							Fit Guard
@@ -18,42 +18,42 @@ const Footer = () => {
 						</span>
 					</div>
 
-					<div class="footer-links col-md ">
+					<div className="footer-links col-md ">
 						<h3>The Company</h3>
 						<ul>
 							<li>
 								{' '}
-								<i class="fa fa-chevron-right"></i>&nbsp;
+								<i className="fa fa-chevron-right"></i>&nbsp;
 								<a href="/">Home</a>
 							</li>
 							<li>
 								{' '}
-								<i class="fa fa-chevron-right"></i>&nbsp;
+								<i className="fa fa-chevron-right"></i>&nbsp;
 								<a href="/about">About</a>
 							</li>
 							<li>
 								{' '}
-								<i class="fa fa-chevron-right"></i>&nbsp;
+								<i className="fa fa-chevron-right"></i>&nbsp;
 								<a href="/medical">Medical</a>
 							</li>
 							<li>
 								{' '}
-								<i class="fa fa-chevron-right"></i>&nbsp;
+								<i className="fa fa-chevron-right"></i>&nbsp;
 								<a href="/injury">Terms & Conditions</a>
 							</li>
 							<li>
 								{' '}
-								<i class="fa fa-chevron-right"></i>&nbsp;
+								<i className="fa fa-chevron-right"></i>&nbsp;
 								<a href="/injury">Feedbacks</a>
 							</li>
 							<li>
 								{' '}
-								<i class="fa fa-chevron-right"></i>&nbsp;
+								<i className="fa fa-chevron-right"></i>&nbsp;
 								<a href="/injur">Contact</a>
 							</li>
 						</ul>
 					</div>
-					<div class="footer-contact col-md">
+					<div className="footer-contact col-md">
 						<p className="mb-5 h4">Contact Info:</p>
 						<p>Email: govindmaurya8699@gmail.com</p>
 						<p>City: Jalandhar</p>

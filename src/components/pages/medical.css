@@ -1,6 +1,5 @@
 Add your own styles and adjust as needed */
 .chat-interface {
-  max-width: 400px;
   
   margin: auto;
   border: 1px solid #ccc;
@@ -40,7 +39,7 @@ Add your own styles and adjust as needed */
 
 .input-container {
   display: flex;
-  /* margin-top: 8px; */
+ 
   padding: 8px;
 }
 
