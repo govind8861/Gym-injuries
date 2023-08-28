@@ -25,6 +25,7 @@ const Home = () => {
 					</div>
 				</div>
 			</div>
+			
 			<div className=" container mt-3">
 				<div>
 					<h2 className="h1 p-3">How It Works?</h2>

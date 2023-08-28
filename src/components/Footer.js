@@ -17,7 +17,7 @@ const Footer = () => {
 							<br /> and tailored workout recommendations."
 						</span>
 					</div>
-
+					<hr/>
 					<div className="footer-links col-md ">
 						<h3>The Company</h3>
 						<ul>
@@ -53,6 +53,7 @@ const Footer = () => {
 							</li>
 						</ul>
 					</div>
+					<hr/>
 					<div className="footer-contact col-md">
 						<p className="mb-5 h4">Contact Info:</p>
 						<p>Email: govindmaurya8699@gmail.com</p>

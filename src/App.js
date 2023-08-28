@@ -3,7 +3,7 @@ import Header from './components/Header'
 import MedicalDisclosure from './components/pages/MedicalDisclosure'
 import Feedback from './components/pages/Feedback'
 import User from './components/pages/User'
-import { Routes, Route } from 'react-router-dom'
+import { Routes, Route, useLocation } from 'react-router-dom'
 import Home from './components/pages/Home'
 import About from './components/pages/About'
 import Contact from './components/pages/Contact'
@@ -21,9 +21,19 @@ function App() {
 				<Route path="/contact" element={<Contact />} />
 				<Route path="/user" element={<User />} />
 			</Routes>
-			<Footer />
+			<FooterWithConditionalRendering />
 		</div>
 	)
 }
+function FooterWithConditionalRendering() {
+	const location = useLocation();
+	
+	// Exclude the Footer component from rendering on the MedicalDisclosure page
+	if (location.pathname === '/medical') {
+	  return null;
+	}
+  
+	return <Footer />;
+  }
 
 export default App

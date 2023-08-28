@@ -101,3 +101,24 @@
   }
   
 
+/* ... Your other styles ... */
+
+/* Adjust hero section for small screens */
+@media (max-width: 576px) {
+  .hero-content {
+    padding: 20px;
+    /* Add padding to the hero content */
+    text-align: center; /* Center-align the content on smaller screens */
+  }
+}
+
+/* Adjust container for small screens */
+@media (max-width: 576px) {
+  .hero{
+    height: auto;
+  }
+  .container {
+    /* margin-top: 100px; */
+    padding: 15px; /* Add padding to the container for spacing */
+  }
+}
