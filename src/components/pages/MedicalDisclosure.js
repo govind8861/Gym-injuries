@@ -26,7 +26,7 @@ const MedicalDisclosure = () => {
 			setIsLoading(true)
 			// Process the user's input and generate a system response based on backward chaining logic
 			setTimeout(() => {
-				const systemResponse = generateSystemResponse(userInput) // Replace with your logic
+				const systemResponse = generateSystemResponse(userInput.toLowerCase()) // Replace with your logic
 
 				// Add the user's message and the system response to the chat history
 				setChatHistory([
@@ -310,7 +310,7 @@ const MedicalDisclosure = () => {
 					</div>
 				))}
 			</div>
-			<div className="input-container">
+			<div className="input-container col-md-12">
 				<input
 					type="text"
 					placeholder="Type your message..."
@@ -318,11 +318,12 @@ const MedicalDisclosure = () => {
 					onChange={handleUserInput}
 					onKeyDown={handleKeyPress} // Handle "Enter" key press
 				/>
-				<button onClick={isLoading ? null : handleSubmit}>
+				<button onClick={isLoading ? null : handleSubmit}
+				disabled={isLoading}>
 					{isLoading ? (
 						<Bars
 							height="30"
-							width="30"
+							width="40"
 							color="#4fa94d"
 							ariaLabel="bars-loading"
 							wrapperStyle={{}}
