@@ -34,9 +34,10 @@
   }
   
   .cta-button {
-    background-color: #FF5722;
+    background-color: #3dc3c3;
     color: white;
     border: none;
+    width: fit-content;
     padding: 10px 20px;
     margin-top: 0.25rem;
     font-size: 1rem;
@@ -87,7 +88,7 @@
   
   .get-started-link {
     display: inline-block;
-    background-color: #FF5722;
+    background-color: #1f7e98;
     color: white;
     padding: 20px 40px;
     font-size: 1rem;
@@ -97,7 +98,8 @@
   }
   
   .get-started-link:hover {
-    background-color: #E64A19;
+    background-color: #cab1aa;
+    color: whitesmoke;
   }
   
 

@@ -34,7 +34,7 @@ const Home = () => {
 					</p>
 				</div>
 				<div className="row">
-					<div className="col-sm">
+					<div className="col-sm col col-md">
 						<div className="shadow p-4">
 							<div className="card-body">
 								<img
@@ -50,7 +50,7 @@ const Home = () => {
 						</div>
 					</div>
 					&#10140;
-					<div className="col-sm">
+					<div className="col-sm col col-md">
 						<div className="shadow p-4">
 							<div className="card-body">
 								<img
@@ -66,7 +66,7 @@ const Home = () => {
 						</div>
 					</div>
 					&#10140;
-					<div className="col-sm">
+					<div className="col-sm col col-md">
 						<div className="shadow p-4">
 							<div className="card-body">
 								<img
@@ -82,7 +82,7 @@ const Home = () => {
 						</div>
 					</div>
 					&#10140;
-					<div className="col-sm">
+					<div className="col-sm col col-md">
 						<div className="shadow p-4">
 							<div className="card-body">
 								<img
