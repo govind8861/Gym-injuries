@@ -6,7 +6,8 @@ const ScrollToTopLink = ({ to, children }) => {
 
 	const handleLinkClick = () => {
 		navigate(to)
-		window.scrollTo(0, 0)
+		window.scrollTo({top:0,behavior:'smooth'})
+
 	}
 	//   const isActive = window.location.pathname === to;
 
