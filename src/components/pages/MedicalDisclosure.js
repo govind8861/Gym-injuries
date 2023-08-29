@@ -43,10 +43,8 @@ const MedicalDisclosure = () => {
 
 	// Simulated function to generate system responses based on user input
 	const generateSystemResponse = userInput => {
-
 		//greetings
 		if (
-			
 			(userInput.includes('hey') && userInput.includes('good morning')) ||
 			(userInput.includes('hey') && userInput.includes('good afternoon')) ||
 			(userInput.includes('hey') && userInput.includes('good evening')) ||
@@ -58,21 +56,21 @@ const MedicalDisclosure = () => {
 			userInput.includes('good morning') ||
 			userInput.includes('good afternoon') ||
 			userInput.includes('good evening')
-		){
+		) {
 			const greetings = [
-				"Hello! How can I assist you today?",
-				"Hey there! What can I do for you?",
-				"Good day! How can I help?",
-				"Hi! How can I be of service?",
-				"Greetings! What can I assist you with?"
-			];
-	
-			const randomIndex = Math.floor(Math.random() * greetings.length);
-			return greetings[randomIndex];
+				'Hello! How can I assist you today?',
+				'Hey there! What can I do for you?',
+				'Good day! How can I help?',
+				'Hi! How can I be of service?',
+				'Greetings! What can I assist you with?',
+			]
+
+			const randomIndex = Math.floor(Math.random() * greetings.length)
+			return greetings[randomIndex]
 		}
 		//are pain worse at night:
 		// Feeling pain in shoulder:
-		
+
 		if (
 			(userInput.includes('pain') && userInput.includes('discomfort')) ||
 			userInput.includes('shoulder pain') ||
@@ -82,19 +80,30 @@ const MedicalDisclosure = () => {
 			userInput.includes('feeling heavy in shoulder') ||
 			userInput.includes('feeling heavy in my shoulder')
 		) {
-			return <div className='col-md-10'>It sounds like you're experiencing some discomfort . Let me help you identify the issue.Are you feeling any of these : disturb sleep ,dull ache deep in the shoulder or weakness in arms </div>
+			return (
+				<div className="col-md-10">
+					It sounds like you're experiencing some discomfort . Let me help you
+					identify the issue.Are you feeling any of these : disturb sleep ,dull
+					ache deep in the shoulder or weakness in arms{' '}
+				</div>
+			)
 		}
 		//are pain worse at night:
 		if (
 			(userInput.includes('yes') && userInput.includes('the pain')) ||
 			userInput.includes('deep shoulder pain') ||
-			
 			userInput.includes('deep pain ') ||
 			userInput.includes('deep pain in shoulder') ||
 			userInput.includes('feeling deep pain in the shoulder') ||
 			userInput.includes('feeling deep pain in my shoulder')
 		) {
-			return <div className='col-md-11'>It sounds like you're experiencing deep pain in the shoulder .Are you able to sleep properly at night without heaving pain the shoulder or not?</div>
+			return (
+				<div className="col-md-11">
+					It sounds like you're experiencing deep pain in the shoulder .Are you
+					able to sleep properly at night without heaving pain the shoulder or
+					not?
+				</div>
+			)
 		}
 		//feeling arms weak:
 
@@ -106,7 +115,17 @@ const MedicalDisclosure = () => {
 			userInput.includes('feeling weakness in arm') ||
 			userInput.includes('joints')
 		) {
-			return <div className='col-md-11'>I'm sorry to hear that you're feeling weak in your arms. Let's work together to identify the possible causes of this weakness. Have you engaged in any activities recently that involve raising your arms overhead? This could include activities like lifting heavy objects, performing exercises, or even tasks that require reaching for items on high shelves. Please provide me with some more details so we can better understand your situation. </div>
+			return (
+				<div className="col-md-11">
+					I'm sorry to hear that you're feeling weak in your arms. Let's work
+					together to identify the possible causes of this weakness. Have you
+					engaged in any activities recently that involve raising your arms
+					overhead? This could include activities like lifting heavy objects,
+					performing exercises, or even tasks that require reaching for items on
+					high shelves. Please provide me with some more details so we can
+					better understand your situation.{' '}
+				</div>
+			)
 		}
 		//if user input that he have weakness in arms due to some conditions:
 		if (
@@ -119,7 +138,15 @@ const MedicalDisclosure = () => {
 			userInput.includes('no sleep') ||
 			userInput.includes('sleep properly')
 		) {
-			return <div className='col-md-11'>I'm sorry to hear that you're not able to sleep at night because of your shoulder pain.Your pain is not letting you sleep properly.can you tell me further so i should assist you accordingly.IF the pain is worse then it's better for you to seek medicals.I am here to help feel free to ask your question. </div>
+			return (
+				<div className="col-md-11">
+					I'm sorry to hear that you're not able to sleep at night because of
+					your shoulder pain.Your pain is not letting you sleep properly.can you
+					tell me further so i should assist you accordingly.IF the pain is
+					worse then it's better for you to seek medicals.I am here to help feel
+					free to ask your question.{' '}
+				</div>
+			)
 		}
 		//if user input that he have weakness in arms due to some conditions:
 
@@ -144,7 +171,15 @@ const MedicalDisclosure = () => {
 			userInput.includes('push-ups') ||
 			userInput.includes('fatigued')
 		) {
-			return <div className='col-md-11'> Thank you for sharing that. Let's dive deeper into your symptoms. Are you experiencing any pain or discomfort in your shoulder area? If so, can you describe the type of pain (dull ache, sharp pain, etc.) and its intensity? </div>
+			return (
+				<div className="col-md-11">
+					{' '}
+					Thank you for sharing that. Let's dive deeper into your symptoms. Are
+					you experiencing any pain or discomfort in your shoulder area? If so,
+					can you describe the type of pain (dull ache, sharp pain, etc.) and
+					its intensity?{' '}
+				</div>
+			)
 		}
 		if (
 			(userInput.includes('dull ache') && userInput.includes('yes')) ||
@@ -158,7 +193,22 @@ const MedicalDisclosure = () => {
 			userInput.includes('intensity is high') ||
 			userInput.includes('feeling sharp pain in shoulder')
 		) {
-			return <div className='col-md-11'><p> I appreciate the information. A dull ache in the shoulder could be indicative of various conditions. To further narrow down the possibilities, have you noticed if the pain worsens at night or when you perform certain movements with your arm?</p><p>[Option 1: Pain worsens at night or with certain movements]</p><p>[Option 2: Pain doesn't worsen at night or with movements]. Choose any one or provide yours...</p></div>
+			return (
+				<div className="col-md-11">
+					<p>
+						{' '}
+						I appreciate the information. A dull ache in the shoulder could be
+						indicative of various conditions. To further narrow down the
+						possibilities, have you noticed if the pain worsens at night or when
+						you perform certain movements with your arm?
+					</p>
+					<p>[Option 1: Pain worsens at night or with certain movements]</p>
+					<p>
+						[Option 2: Pain doesn't worsen at night or with movements]. Choose
+						any one or provide yours...
+					</p>
+				</div>
+			)
 		}
 		if (
 			userInput.includes('treatment ') ||
@@ -274,9 +324,13 @@ const MedicalDisclosure = () => {
 						a thorough examination and provide personalized recommendations.
 					</p>
 					<p>
-						[<span className='bg-primary text-white p-1 '>Option 1.1</span>: if you wants to know more about rotator cuff injuries]
+						[<span className="bg-primary text-white p-1 ">Option 1.1</span>: if
+						you wants to know more about rotator cuff injuries]
 					</p>
-					<p>[<span className='bg-primary text-white p-1 '>Option 1.2</span>: if you want to asks about treatment options]</p>
+					<p>
+						[<span className="bg-primary text-white p-1 ">Option 1.2</span>: if
+						you want to asks about treatment options]
+					</p>
 				</div>
 			)
 		} else if (
@@ -286,9 +340,24 @@ const MedicalDisclosure = () => {
 			userInput.includes('option 2') ||
 			(userInput.includes('option') && userInput.includes('2'))
 		) {
-			return <div className='col-md-11'> I see. Based on what you've shared, it's possible that the cause of your weakness and discomfort might not be directly related to a rotator cuff injury. However, arm weakness can have various underlying factors, and if it persists or becomes concerning, seeking medical advice is recommended. A healthcare professional can help determine the cause and provide appropriate recommendations.</div>
+			return (
+				<div className="col-md-11">
+					{' '}
+					I see. Based on what you've shared, it's possible that the cause of
+					your weakness and discomfort might not be directly related to a
+					rotator cuff injury. However, arm weakness can have various underlying
+					factors, and if it persists or becomes concerning, seeking medical
+					advice is recommended. A healthcare professional can help determine
+					the cause and provide appropriate recommendations.
+				</div>
+			)
 		} else {
-			return <div className='col-md-11'>I'm sorry, I couldn't understand your input. Please provide more details.</div>
+			return (
+				<div className="col-md-11">
+					I'm sorry, I couldn't understand your input. Please provide more
+					details.
+				</div>
+			)
 		}
 	}
 	const handleKeyPress = event => {
@@ -318,8 +387,7 @@ const MedicalDisclosure = () => {
 					onChange={handleUserInput}
 					onKeyDown={handleKeyPress} // Handle "Enter" key press
 				/>
-				<button onClick={isLoading ? null : handleSubmit}
-				disabled={isLoading}>
+				<button onClick={isLoading ? null : handleSubmit} disabled={isLoading}>
 					{isLoading ? (
 						<Bars
 							height="30"

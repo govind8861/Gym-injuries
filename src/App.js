@@ -26,14 +26,14 @@ function App() {
 	)
 }
 function FooterWithConditionalRendering() {
-	const location = useLocation();
-	
+	const location = useLocation()
+
 	// Exclude the Footer component from rendering on the MedicalDisclosure page
 	if (location.pathname === '/medical') {
-	  return null;
+		return null
 	}
-  
-	return <Footer />;
-  }
+
+	return <Footer />
+}
 
 export default App

@@ -44,9 +44,10 @@
 .input-container {
   display: flex;
  bottom: 0;
- position:sticky;
+ position:fixed;
  /* position: relative; */
  background-attachment: fixed;
+ width: 100%;
  align-items: center;
  overflow: hidden;
   padding: 8px;
@@ -88,4 +89,9 @@ button {
     align-self: flex-start;
     background-color: #f0f0f0;
   }
-  
+  @media (min-height:800px) {
+    
+    .chat-interface{
+      height: 92vh;
+    }
+  }

@@ -138,16 +138,25 @@
 /* ... Your other styles ... */
 
 /* Media query for adding <hr> tag */
-@media (max-width: 576px) {
+@media (max-width: 545px) {
   /* Add margin before and after <hr> for spacing */
   .app-footer hr {
     margin: 20px 0;
     display: block; /* Display the <hr> tag only in this media query */
   }
 }
+@media (min-width: 545px ) and( max-width:780px) {
+  /* Add margin before and after <hr> for spacing */
+  .app-footer hr {
+    margin: 20px 0;
+   
+    display: block; /* Display the <hr> tag only in this media query */
+  }
+  
+}
 
 /* Hide <hr> tag for larger screens */
-@media (min-width: 577px) {
+@media (min-width: 789px) {
   .app-footer hr {
     display: none;
   }
