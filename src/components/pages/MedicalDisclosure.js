@@ -49,9 +49,10 @@ const MedicalDisclosure = () => {
 				patterns: [
 					'hey',
 					'hello',
+					'helo','hii','hiii','hiiii','hi',
 					'good morning',
 					'good afternoon',
-					'good evening',
+					'good evening','chat','support','introduction'
 				],
 				responses: [
 					'Hello! How can I assist you today?',
@@ -62,15 +63,15 @@ const MedicalDisclosure = () => {
 				],
 			},
 			{
-				patterns:['how are you'],
+				patterns:['how are you','well-being','feeling','health','status','mood'],
 				responses:[
 					<div className='col-md-10'>
-						I am fine ! How can i assist you ?
+						I'm just a computer program, so I don't have feelings, but I'm here and ready to help you with any questions or tasks you have. How can I assist you today?
 					</div>
 				]
 			}
 			,{
-				patterns: ['pain', 'discomfort', 'shoulder pain', 'shoulder'],
+				patterns: ['pain','ache','issue','problem','soreness', 'discomfort', 'shoulder pain', 'shoulder issue','shoulder'],
 				responses: [
 					<div className="col-md-10">
 						It sounds like you're experiencing some discomfort . Let me help you
@@ -80,7 +81,7 @@ const MedicalDisclosure = () => {
 				],
 			},
 			{
-				patterns: ['yes', 'the pain', 'pain worse at night'],
+				patterns: ['yes', 'the pain', 'pain worse at night','pain confirmation','confirm pain','nighttime pain','pain intensification'],
 				responses: [
 					<div className="col-md-11">
 						It sounds like you're experiencing deep pain in the shoulder .Are
@@ -93,8 +94,7 @@ const MedicalDisclosure = () => {
 				patterns: [
 					'weakness in arms',
 					'weak arms',
-					'arm weak',
-					'arms are weak',
+					'arm weak','arm weakness','arms strength','arm power','inability','arm condition',				'arms are weak',
 				],
 				responses: [
 					<div className="col-md-11">
@@ -110,6 +110,7 @@ const MedicalDisclosure = () => {
 			},
 			{
 				patterns: [
+					'sleep disruption','sleep issues','sleep problems','sleep discomfort',
 					'properly sleep',
 					'pain get worse at night',
 					'get worse at night',
@@ -128,19 +129,19 @@ const MedicalDisclosure = () => {
 
 			{
 				patterns: [
+					'physical strain',
 					'lifted weights',
-					'gym',
+					'gym exercises',
 					'overhead exercise',
 					'heavy objects',
 					'high shelves',
 					'shoulder exercises',
-					'workout',
+					,
 					'any strenuous activities',
-					'causing',
-					'weakness',
+					'causing weakness',
 					'feeling weak',
 					'experiencing weakness',
-					'fatigued',
+					'fatigued','overhead workouts','heavy object lifting','high shelf tasks','weakness due to strain'
 				],
 				response: [
 					<div className="col-md-11">
@@ -154,7 +155,7 @@ const MedicalDisclosure = () => {
 			},
 			{
 				patterns: [
-					'dull ache',
+					'dull ache','ache details',
 					'yes i have dull ache in my shoulder',
 					'ache in shoulder',
 					'sharp pain',
@@ -162,6 +163,7 @@ const MedicalDisclosure = () => {
 					'sharp pain in shoulder',
 					'very pain',
 					'high intensity',
+					'high intensity pain','feeling sharp pain','pain characteristics',
 					'feeling sharp pain in shoulder',
 				],
 				response: [
@@ -184,7 +186,7 @@ const MedicalDisclosure = () => {
 			{
 				patterns: [
 					'treatment of rotator cuff injury',
-					'treatment of injury',
+					'treatment of injury','rotator cuff treatmen','injury treatment','treatment options','treating injuries','healing methods','care for injuries',
 					'option 1.2',
 				],
 				response: [
@@ -237,7 +239,7 @@ const MedicalDisclosure = () => {
 				],
 			},
 			{
-				patterns: ['option 1.1'],
+				patterns: ['option 1.1','injury causes','causes of injuries','reasons for pain','injury origins','sources of discomfort'],
 				response: [
 					<div className="col-md-11">
 						<h6>why rotator cuff injury happen?</h6>
@@ -268,7 +270,7 @@ const MedicalDisclosure = () => {
 			},
 			{
 				patterns: [
-					'option 1',
+					'option 1','night pain','pain at night','pain worsening in evening','pain increase during nighttime',
 					'pain worse at night',
 					'yes the pain worst at night',
 					'yes',
@@ -301,7 +303,7 @@ const MedicalDisclosure = () => {
 			},
 			{
 				patterns: [
-					'no',
+					'no','no night pain','absence of nighttime pain',"pain doesn't worsen at night",
 					'pain does not worse at night',
 					'no the pain not worst at night',
 					'option 2',
