@@ -136,7 +136,6 @@ const MedicalDisclosure = () => {
 					'heavy objects',
 					'high shelves',
 					'shoulder exercises',
-					,
 					'any strenuous activities',
 					'causing weakness',
 					'feeling weak',
