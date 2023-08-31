@@ -1,0 +1,582 @@
+[
+    {
+      "patterns": [
+        "hey",
+        "hello",
+        "helo",
+        "hii",
+        "hiii",
+        "hiiii",
+        "hi",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "chat",
+        "support",
+        "introduction"
+      ],
+      "responses": [
+        "Hello! How can I assist you today?",
+        "Hey there! What can I do for you?",
+        "Good day! How can I help?",
+        "Hi! How can I be of service?",
+        "Greetings! What can I assist you with?"
+      ]
+    },
+    {
+      "patterns": [
+        "how are you",
+        "well-being",
+        "feeling",
+        "health",
+        "status",
+        "mood"
+      ],
+      "responses": [
+        "I'm just a computer program, so I don't have feelings, but I'm here and ready to help you with any patterns or tasks you have.\n\nHow can I assist you today?"
+      ]
+    },
+    {
+      "patterns": [
+        "pain",
+        "ache",
+        "issue",
+        "problem",
+        "soreness",
+        "discomfort",
+        "shoulder pain",
+        "shoulder issue",
+        "shoulder"
+      ],
+      "responses": [
+        "It sounds like you're experiencing some discomfort. Let me help you identify the issue.\n\nAre you feeling any of these: disturb sleep, dull ache deep in the shoulder or weakness in arms?"
+      ]
+    },
+    {
+      "patterns": [
+        "yes",
+        "the pain",
+        "pain worse at night",
+        "pain confirmation",
+        "confirm pain",
+        "nighttime pain",
+        "pain intensification"
+      ],
+      "responses": [
+        "It sounds like you're experiencing deep pain in the shoulder. Are you able to sleep properly at night without heaving pain in the shoulder or not?"
+      ]
+    },
+    {
+      "patterns": [
+        "weakness in arms",
+        "weak arms",
+        "arm weak",
+        "arm weakness",
+        "arms strength",
+        "arm power",
+        "inability",
+        "arm condition",
+        "arms are weak"
+      ],
+      "responses": [
+        "I'm sorry to hear that you're feeling weak in your arms. Let's work together to identify the possible causes of this weakness.\n\nHave you engaged in any activities recently that involve raising your arms overhead? This could include activities like lifting heavy objects, performing exercises, or even tasks that require reaching for items on high shelves.\n\nPlease provide me with some more details so we can better understand your situation."
+      ]
+    },
+    {
+      "patterns": [
+        "sleep disruption",
+        "sleep issues",
+        "sleep problems",
+        "sleep discomfort",
+        "properly sleep",
+        "pain get worse at night",
+        "get worse at night",
+        "disturb sleep"
+      ],
+      "responses": [
+        "I'm sorry to hear that you're not able to sleep at night because of your shoulder pain. Your pain is not letting you sleep properly.\n\nCan you tell me further so I should assist you accordingly? If the pain is worse, then it's better for you to seek medical help. I am here to help, feel free to ask your patterns."
+      ]
+    },
+    {
+      "patterns": [
+        "physical strain",
+        "lifted weights",
+        "gym exercises",
+        "overhead exercise",
+        "heavy objects",
+        "high shelves",
+        "shoulder exercises",
+        "any strenuous activities",
+        "causing weakness",
+        "feeling weak",
+        "experiencing weakness",
+        "fatigued",
+        "overhead workouts",
+        "heavy object lifting",
+        "high shelf tasks",
+        "weakness due to strain"
+      ],
+      "responses": [
+        "Thank you for sharing that. Let's dive deeper into your symptoms.\n\nAre you experiencing any pain or discomfort in your shoulder area? If so, can you describe the type of pain (dull ache, sharp pain, etc.) and its intensity?"
+      ]
+    },
+    {
+      "patterns": [
+        "dull ache",
+        "ache details",
+        "yes i have dull ache in my shoulder",
+        "ache in shoulder",
+        "sharp pain",
+        "pain in shoulder",
+        "sharp pain in shoulder",
+        "very pain",
+        "high intensity",
+        "high intensity pain",
+        "feeling sharp pain",
+        "pain characteristics",
+        "feeling sharp pain in shoulder"
+      ],
+      "responses": [
+        "I appreciate the information. A dull ache in the shoulder could be indicative of various conditions. To further narrow down the possibilities, have you noticed if the pain worsens at night or when you perform certain movements with your arm?\n\n[Option 1: Pain worsens at night or with certain movements]\n\n[Option 2: Pain doesn't worsen at night or with movements]. Choose any one or provide yours..."
+      ]
+    },
+    {
+      "patterns": [
+        "treatment of rotator cuff injury",
+        "treatment of injury",
+        "rotator cuff treatment",
+        "injury treatment",
+        "treatment options",
+        "treating injuries",
+        "healing methods",
+        "care for injuries",
+        "option 1.2"
+      ],
+      "responses": [
+        "Treatment will depend on your symptoms and the length of time you have them. Your caregiver may want you to limit activity on your affected shoulder to decrease stress on the tendon. This may help prevent further damage, decrease pain, and promote tendon healing.\n\nThe primary treatment is resting the shoulder and, for minor tears and inflammation, applying ice packs. You may need to wear a sling to keep the shoulder from moving.\n\nAnti-inflammatory medications may also be prescribed. As soon as pain decreases, physical therapy is usually started to help regain normal motion. If pain persists after several weeks, the physician may inject cortisone into the affected area.\n\nSurgery: If you have a large tear in your rotator cuff, you may need surgery to repair the tear. Sometimes during this kind of surgery, doctors may remove a bone spur or calcium deposits.\n\nThe surgery may be performed as an open repair through a 6- to 10-centimeter incision, or as an arthroscopic repair with the aid of a small camera inserted through a smaller incision. An arthroscope is used to view the shoulder joint and confirm the presence of a tear. It can also remove any bone spurs that may be present in the shoulder area.\n\nThe arthroscopic procedures usually involve a 2-inch incision in the outer shoulder. During this time, the torn rotator edge may be reattached to the humerus with stitches.\n\nArthroplasty: Some long-standing shoulder muscle tears may contribute to the development of rotator cuff arthropathy, which can include severe arthritis. In such cases, your doctor may discuss with you more extensive surgical options, including partial shoulder replacement (hemiarthroplasty) or total shoulder replacement (prosthetic arthroplasty).\n\nA unique treatment option now available involves the use of a reverse ball-and-socket prosthesis. This reverse shoulder prosthesis is most appropriate for people who have very difficult shoulder problems. These include having arthritis in the joint, along with extensive tears of multiple muscles and tendons (rotator cuff) that support the shoulder, or having extensive rotator cuff tears and a failed previous shoulder joint replacement."
+      ]
+    },
+    {
+      "patterns": [
+        "option 1.1",
+        "injury causes",
+        "causes of injuries",
+        "reasons for pain",
+        "injury origins",
+        "sources of discomfort"
+      ],
+      "responses": [
+        "Why do rotator cuff injuries happen?\n\nRotator Cuff Tear: A ripping of one or more of the tendons. Result when a sudden eccentric force is applied to the rotator cuff resulting in the failure of the tendon. Uncommon under the age of 40 but strains do occur. In the population over 40 years of age, supraspinatus tears occur and less commonly, infraspinatus tears. Tears in the subscapularis tendon are uncommon and are often the result of a shoulder dislocation.\n\nCauses\n\nPoor posture: When you slouch your neck and shoulders forward, the space where the rotator cuff muscles reside can become smaller. This can allow a muscle or tendon to become pinched under your shoulder bones, including your collarbone, especially during overhead activities, such as throwing.\n\nFalling: Using your arm to break a fall or falling on your arm can bruise or tear a rotator cuff tendon or muscle.\n\nLifting or Pulling: Lifting an object that's too heavy, or doing so improperly (especially overhead), can strain or tear your tendons or muscles.\n\nPulling something, such as an archery bow of too heavy poundage, may cause an injury."
+      ]
+    },
+    {
+      "patterns": [
+        "option 1",
+        "night pain",
+        "pain at night",
+        "pain worsening in evening",
+        "pain increase during nighttime",
+        "pain worse at night",
+        "yes the pain worst at night",
+        "yes",
+        "1"
+      ],
+      "responses": [
+        "Thank you for sharing that. Your description aligns with some characteristics of a rotator cuff injury. The combination of a dull ache that worsens at night and discomfort when reaching behind your back can be concerning. These symptoms can be associated with a rotator cuff strain or tear. While I can't provide a definitive diagnosis, I recommend considering a medical evaluation to determine the cause of your discomfort. A healthcare professional can perform a thorough examination and provide personalized recommendations.\n\n[Option 1.1: if you want to know more about rotator cuff injuries]\n\n[Option 1.2: if you want to ask about treatment options]"
+      ]
+    },
+    {
+      "patterns": [
+        "no",
+        "no night pain",
+        "absence of nighttime pain",
+        "pain doesn't worsen at night",
+        "pain does not worsen at night",
+        "no the pain not worst at night",
+        "option 2",
+        "2"
+      ],
+      "responses": [
+        "I see. Based on what you've shared, it's possible that the cause of your weakness and discomfort might not be directly related to a rotator cuff injury. However, arm weakness can have various underlying factors, and if it persists or becomes concerning, seeking medical advice is recommended. A healthcare professional can help determine the cause and provide appropriate recommendations."
+      ]
+    }
+   
+    ,{
+        "patterns":["are rotator cuff injuries permanent"],
+        "responses":["Without treatment, rotator cuff problems may lead to permanent loss of motion or weakness of the shoulder joint."]
+    }
+  
+    ,{
+        "patterns":["are rotator cuff injuries common"],
+        "responses":["Rotator cuff injuries are common. Most of them are wear-and-tear injuries from doing the same arm movements over and over - especially reaching over your head. With time, the tissues in the rotator cuff break down, leading to these injuries: Tendinitis."]
+    }
+  
+    ,{
+        "patterns":["are rotator cuff tears painful"],
+        "responses":["Rotator cuff tendon tears often cause pain at night. The pain may even wake you. During the day, the pain is more tolerable, and usually only hurts with certain movements, such as overhead or reaching toward the back. Over time, the symptoms become much worse and are not relieved by medicines, rest, or exercise."]
+    }
+    ,{
+        "patterns":["is rotator cuff injury serious"],
+        "responses":["Without treatment, rotator cuff problems may lead to permanent loss of motion or weakness of the shoulder joint."]
+    }
+    ,{
+        "patterns":["are rotator cuff tears common"],
+        "responses":["A rotator cuff injury can cause a dull ache in the shoulder that worsens at night. Rotator cuff injuries are common and increase with age. These injuries may occur earlier in people who have jobs that require repeatedly performing overhead motions, such as painters and carpenters."]
+    }
+    ,{
+        "patterns":["is rotator cuff tear surgery necessary"],
+        "responses":["You may be able to stop or reverse early rotator cuff damage without surgery. Try using rest, ice and heat, anti-inflammatory medicines, and physiotherapy. If you have symptoms that don't get better after 3 to 6 months, you may need surgery.        "]
+    }
+    ,{
+        "patterns":["how are rotator cuff injury diagnosed"],
+        "responses":["To diagnose a rotator cuff tear, a doctor will take a medical history and perform a physical exam in which you will be asked to move your shoulder. You doctor will look at your range of motion and discuss the amount of pain you are having. Tests you may need include: X-ray to examine your shoulder joint."]
+    }
+    ,{
+        "patterns":["is rotator cuff tear chronic"],
+        "responses":["Rotator cuff tears may occur in two ways: A sudden acute tear may happen when you fall on your arm while it is stretched out. Or, it can occur after a sudden, jerking motion when you try to lift something heavy. A chronic tear of the rotator cuff tendon occurs slowly over time."]
+    }
+    ,{
+        "patterns":["how are rotator cuff tears repaired"],
+        "responses":["To repair the rotator cuff: The tendons are re-attached to the bone. Small rivets (called suture anchors) are often used to help attach the tendon to the bone. The suture anchors can be made of metal or material that dissolves over time, and do not need to be removed."]
+    }
+    ,{
+        "patterns":["are all rotator cuff injuries tears"],
+        "responses":["Rotator cuff injuries can range in severity from simple inflammation to complete tendon tears. The rotator cuff is a group of muscles and tendons that surround the shoulder joint, keeping the head of the upper arm bone firmly within the shallow socket of the shoulder.        "]
+    }
+    ,{
+        "patterns":["does rotator cuff injury get better      "],
+        "responses":["Rotator cuff tear treatment may include nonsurgical and surgical options. Rotator cuff tears don't heal on their own without surgery, but many people can improve functionally and decrease pain with nonsurgical treatment by strengthening their shoulder muscles.        "]
+    }
+    ,{
+        "patterns":["is a sling good for a rotator cuff injury"],
+        "responses":["Using an arm sling to rest or immobilize your shoulder joint supports your arm while taking the pressure off your rotator cuff. Resting the soft connective tissues of your shoulder joint can relieve pain and promote healing. Limiting activities in which you reach overhead also reduces discomfort and encourages healing.        "]
+    }
+    ,{
+        "patterns":["how does your rotator cuff get injured "],
+        "responses":["Rotator cuff injuries are most often caused by progressive wear and tear of the tendon tissue over time. Repetitive overhead activity or prolonged bouts of heavy lifting can irritate or damage the tendon. The rotator cuff can also be injured in a single incident during falls or accidents.        "]
+    }
+    ,{
+        "patterns":["does rotator cuff injury get better"],
+        "responses":["Rotator cuff tear treatment may include nonsurgical and surgical options. Rotator cuff tears don't heal on their own without surgery, but many people can improve functionally and decrease pain with nonsurgical treatment by strengthening their shoulder muscles.        "]
+    }
+    ,{
+        "patterns":["can rotator cuff injury heal itself        "],
+        "responses":[" Rotator cuff tears don't heal on their own without surgery, but many people can improve functionally and decrease pain with nonsurgical treatment by strengthening their shoulder muscles.        "]
+    }
+    ,{
+        "patterns":["can rotator cuff injury affect hand        "],
+        "responses":["The most typical sequelae of rotator cuff tears include shoulder pain with loss of strength and function. However, we noted anecdotally that a large proportion of patients presenting with rotator cuff injuries complained of numbness and/or tingling in their ipsilateral arm and hand.        "]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause neck pain"],
+        "responses":["Rotator cuff syndrome can cause pain in your shoulders, neck, and more. Your rotator cuff is made up of four main muscles: the teres minor, subscapularis, infraspinatus, and supraspinatus. Each of these muscles plays a crucial role in the proper function of your shoulder. "]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause chest pain"],
+        "responses":["Call Emergency Services if you have sudden pressure or crushing pain in your shoulder, especially if the pain starts in your chest, jaw, or neck. If you fall on your shoulder and feel sudden intense pain, you should see a doctor because you may have torn rotator cuff or dislocated your shoulder."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury affect neck"],
+        "responses":["A weakness or tear in your rotator cuff can put tremendous stress on the secondary stabilizers. These overstressed stabilizers can cause neck strain or muscle spasms in your neck."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause elbow pain"],
+        "responses":["The common symptom of acute rotator cuff tears, which usually go away after a period of time, include: Severe pain that originates from the upper area of your shoulder down toward the elbow."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause dizziness"],
+        "responses":["Often other symptoms such as headache and dizziness can be experienced by patients. Injury to the Rotator Cuff, the group of muscles and tendons in the shoulder that connect the upper arm to the shoulder blade providing stability to the shoulder and allowing it to rotate."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause arm pain"],
+        "responses":["At first, the pain might not be severe. Eventually, it can cause pain in your shoulder and arm, leading to your wrist and hand. It can impact daily activities such as reaching into the closet or combing your hair. Yes, a rotator cuff injury can happen to anyone and tends to develop over time."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause rib pain"],
+        "responses":["Boyle (1999) suggests that acute shoulder pain within the glenohumeral joint, often seen in impingement syndrome or rotator cuff pathology, may be the result of a sprain of the second rib articulation that compresses the second thoracic nerve and refers pain distally to the shoulder."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause frozen shoulder"],
+        "responses":["People who've had to keep a shoulder somewhat still are at higher risk of developing frozen shoulder. Restricted movement can be the result of many factors, including: Rotator cuff injury."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause bicep pain"],
+        "responses":["Tendinopathy of the long head of the biceps (LHB) tendon commonly occurs in patients with rotator cuff tears, and the inflammation of one head tends to lead to inflammation of the other."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause forearm pain"],
+        "responses":["Can a rotator cuff injury cause pain in your arm and hand, too? Yes. Typically, the pain starts as a dull aching pain in your shoulder. As the injury progresses, it can cause radiating pain down the arm and into your hands."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause armpit pain"],
+        "responses":["Rotator cuff armpit pain can be excruciating, making it difficult to perform even the simplest of daily tasks. It can cause discomfort and restrict your range of motion, leaving you feeling helpless."]
+    }
+    ,{
+        "patterns":["how rotator cuff injuries occur"],
+        "responses":["There are 2 main causes of rotator cuff tears: injury and degeneration. An injury to the rotator cuff, such as a tear, may happen suddenly when falling on an outstretched hand. It may also develop over time due to repetitive activities. Rotator cuff tears may also happen due to aging, with degeneration of the tissues."]
+    }
+    ,{
+        "patterns":["how rotator cuff tear is diagnosed"],
+        "responses":["To diagnose a rotator cuff tear, a doctor will take a medical history and perform a physical exam in which you will be asked to move your shoulder. You doctor will look at your range of motion and discuss the amount of pain you are having. Tests you may need include: X-ray to examine your shoulder joint.    "]
+    }
+    ,{
+        "patterns":["what rotator cuff injury"],
+        "responses":["The rotator cuff is a group of muscles and tendons that hold the shoulder joint in place and allow you to move your arm and shoulder. Problems occur when part of the rotator cuff becomes irritated or damaged. This can result in pain, weakness and reduced range of motion."]
+    }
+    ,{
+        "patterns":["how rotator cuff tears"],
+        "responses":["Rotator cuff injuries are most often caused by progressive wear and tear of the tendon tissue over time. Repetitive overhead activity or prolonged bouts of heavy lifting can irritate or damage the tendon. The rotator cuff can also be injured in a single incident during falls or accidents."]
+    }
+    ,{
+        "patterns":["how long rotator cuff injury heal"],
+        "responses":["Often times the stiffness can be treated, and the pain resolves. It takes the repaired rotator cuff tendons about six weeks to heal initially to the bone, three months to form a relatively strong attachment to the bone, and about six to nine months before the tendon is completely healed to the bone."]
+    }
+    ,{
+        "patterns":["how do rotator cuff injuries heal"],
+        "responses":["Rotator cuff tear treatment may include nonsurgical and surgical options. Rotator cuff tears don't heal on their own without surgery, but many people can improve functionally and decrease pain with nonsurgical treatment by strengthening their shoulder muscles."]
+    }
+    ,{
+        "patterns":["how to prevent rotator cuff injury"],
+        "responses":["Preventing rotator cuff injuries/n/n Avoid repetitive overhead activities. Find ways to modify the task and ensure you take frequent breaks. Avoid lifting heavy objects with an outstretched arm. Ensure that the load is close to your body to reduce the strain on the shoulder."]
+    }
+    ,{
+        "patterns":["how do rotator cuff tears happen"],
+        "responses":["There are 2 main causes of rotator cuff tears: injury and degeneration. An injury to the rotator cuff, such as a tear, may happen suddenly when falling on an outstretched hand. It may also develop over time due to repetitive activities. Rotator cuff tears may also happen due to aging, with degeneration of the tissues."]
+    }
+    ,{
+        "patterns":["what does rotator cuff injury feel like"],
+        "responses":["The pain associated with a rotator cuff injury may: Be described as a dull ache deep in the shoulder. Disturb sleep. Make it difficult to comb your hair or reach behind your back."]
+    }
+    ,{
+        "patterns":["how to avoid rotator cuff injury"],
+        "responses":["Avoid Lifting, Catching Heavy Objects, or Raising Your Arms Repeatedly. Lifting heavy items over your head or catching them can lead to tendon strain and injury. Try to minimize how often you participate in these activities."]
+    }
+    ,{
+        "patterns":["how to identify rotator cuff injury","how to tell rotator cuff injury"],
+        "responses":["What are the symptoms of a rotator cuff tear?\n\nRecurrent pain, especially with certain activities.Pain that prevents you from sleeping on your injured side. Grating or cracking sounds when moving your arm.  Limited ability to move your arm.Muscle weakness."]
+    }
+    ,{
+        "patterns":["how to test rotator cuff injury","how to check rotator cuff injury"],
+        "responses":["X-rays. Although a rotator cuff tear won't show up on an X-ray, this test can visualize bone spurs or other potential causes for your pain — such as arthritis. Ultrasound. This type of test uses sound waves to produce images of structures within your body, particularly soft tissues such as muscles and tendons"]
+    }
+    ,{
+        "patterns":["how does your rotator cuff get injured"],
+        "responses":["It is very uncommon to operate on a partial rotator cuff tear. In cases of deep partial tears — when more than 90 percent of the tendon is torn — surgery is recommended only if the symptoms can't be controlled with nonsurgical treatments. Specializing In: Sports Injuries to the Shoulder."]
+    }
+    ,{
+        "patterns":["is rotator cuff injury common "],
+        "responses":["A rotator cuff injury can cause a dull ache in the shoulder that worsens at night. Rotator cuff injuries are common and increase with age. These injuries may occur earlier in people who have jobs that require repeatedly performing overhead motions, such as painters and carpenters."]
+    }
+    ,{
+        "patterns":["does rotator cuff injury get better"],
+        "responses":["Rotator cuff tear treatment may include nonsurgical and surgical options. Rotator cuff tears don't heal on their own without surgery, but many people can improve functionally and decrease pain with nonsurgical treatment by strengthening their shoulder muscles."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause frozen shoulder"],
+        "responses":["People who've had to keep a shoulder somewhat still are at higher risk of developing frozen shoulder. Restricted movement can be the result of many factors, including: Rotator cuff injury."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause frozen shoulder"],
+        "responses":["People who've had to keep a shoulder somewhat still are at higher risk of developing frozen shoulder. Restricted movement can be the result of many factors, including: Rotator cuff injury."]
+    }
+    ,{
+        "patterns":["can rotator cuff injury cause frozen shoulder"],
+        "responses":["People who've had to keep a shoulder somewhat still are at higher risk of developing frozen shoulder. Restricted movement can be the result of many factors, including: Rotator cuff injury."]
+    },{
+        "patterns": ["What is a rotator cuff injury?"],
+        "responses": ["A rotator cuff injury refers to damage or strain to the group of muscles and tendons that surround the shoulder joint, providing stability and enabling various shoulder movements."]
+      },
+      {
+        "patterns":[ "What's a rotator cuff tear?"],
+        "responses":[ "A rotator cuff tear is a specific type of rotator cuff injury where one or more of the tendons connecting the rotator cuff muscles to the shoulder bone are partially or completely torn, causing pain, weakness, and limited shoulder motion."]
+      },
+      {
+        "patterns": ["What does a rotator cuff injury feel like?"],
+        "responses": ["A rotator cuff injury often causes pain in the shoulder area, especially when lifting the arm or reaching overhead. There might be weakness, aching, and restricted range of motion in the affected shoulder."]
+      },
+      {
+        "patterns": ["What's a rotator cuff injury feel like?"],
+        "responses": ["A rotator cuff injury often leads to pain, weakness, and limited movement in the shoulder. Pain is typically felt when raising the arm or performing activities involving the shoulder."]
+      },
+      {
+        "patterns": ["What does a rotator cuff injury look like?"],
+        "responses": ["Externally, a rotator cuff injury might not be visibly obvious. There could be swelling or tenderness in the shoulder area. Imaging tests like MRI or ultrasound are often used to visualize the extent of the injury."]
+      },
+      {
+        "patterns": ["Which rotator cuff muscle is injured?"],
+        "responses": ["A rotator cuff injury can involve any of the four muscles: supraspinatus, infraspinatus, teres minor, and subscapularis, which together make up the rotator cuff group."]
+      },
+      {
+        "patterns": ["Is a rotator cuff injury common?"],
+        "responses":[ "Yes, rotator cuff injuries are relatively common, especially as people age. They can result from overuse, trauma, or degeneration of the tendons over time."]
+      },
+      {
+        "patterns": ["Famous rotator cuff injuries?"],
+        "responses": ["Notable individuals like professional athletes often experience rotator cuff injuries. For example, baseball pitchers are prone to these injuries due to the repetitive throwing motion."]
+      },
+      {
+        "patterns": ["What kind of doctor treats rotator cuff injury?"],
+        "responses": ["Orthopedic surgeons or sports medicine doctors often treat rotator cuff injuries. Physical therapists also play a crucial role in rehabilitation."]
+      },
+      {
+        "patterns": ["What part of the rotator cuff is most frequently injured?"],
+        "responses": ["The supraspinatus muscle and tendon of the rotator cuff are the most frequently injured components. It is located on the top of the shoulder blade and helps lift the arm."]
+      },
+      {
+        "patterns": ["can you provide more info about rotator cuff injury?"],
+        "responses": ["The rotator cuff is a group of muscles and tendons that surround the shoulder joint, keeping the head of the upper arm bone firmly within the shallow socket of the shoulder. A rotator cuff injury can cause a dull ache in the shoulder that worsens at night.\n\n Rotator cuff injuries are common and increase with age. These injuries may occur earlier in people who have jobs that require repeatedly performing overhead motions, such as painters and carpenters.\n\n Physical therapy exercises can improve flexibility and strength of the muscles surrounding the shoulder joint. For many people with rotator cuff problems, these exercises are all that's needed to manage their symptoms.\n\nSometimes, rotator cuff tears may occur from a single injury. In those circumstances, people should seek medical advice quickly because they might need surgery"]
+      },
+      
+        {
+          "patterns": ["What is a rotator cuff injury?"],
+          "responses":[ "A rotator cuff injury refers to damage or strain to the group of muscles and tendons that surround the shoulder joint, providing stability and enabling various shoulder movements."]
+        },
+        {
+          "patterns": ["What's a rotator cuff tear?"],
+          "responses":[ "A rotator cuff tear is a specific type of rotator cuff injury where one or more of the tendons connecting the rotator cuff muscles to the shoulder bone are partially or completely torn, causing pain, weakness, and limited shoulder motion."]
+        },
+        {
+          "patterns": ["What does a rotator cuff injury feel like?"],
+          "responses":[ "A rotator cuff injury often causes pain in the shoulder area, especially when lifting the arm or reaching overhead. There might be weakness, aching, and restricted range of motion in the affected shoulder."]
+        },
+        {
+          "patterns": ["What's a rotator cuff injury feel like?"],
+          "responses":[ "A rotator cuff injury often leads to pain, weakness, and limited movement in the shoulder. Pain is typically felt when raising the arm or performing activities involving the shoulder."]
+        },
+        {
+          "patterns": ["What does a rotator cuff injury look like?"],
+          "responses":[ "Externally, a rotator cuff injury might not be visibly obvious. There could be swelling or tenderness in the shoulder area. Imaging tests like MRI or ultrasound are often used to visualize the extent of the injury."]
+        },
+        {
+          "patterns": ["Which rotator cuff muscle is injured?"],
+          "responses": ["A rotator cuff injury can involve any of the four muscles: supraspinatus, infraspinatus, teres minor, and subscapularis, which together make up the rotator cuff group."]
+        },
+        {
+          "patterns": ["Is a rotator cuff injury common?"],
+          "responses":[ "Yes, rotator cuff injuries are relatively common, especially as people age. They can result from overuse, trauma, or degeneration of the tendons over time."]
+        },
+        {
+          "patterns": ["Famous rotator cuff injuries?"],
+          "responses": ["Notable individuals like professional athletes often experience rotator cuff injuries. For example, baseball pitchers are prone to these injuries due to the repetitive throwing motion."]
+        },
+        {
+          "patterns": ["What kind of doctor treats rotator cuff injury?"],
+          "responses": ["Orthopedic surgeons or sports medicine doctors often treat rotator cuff injuries. Physical therapists also play a crucial role in rehabilitation."]
+        },
+        {
+          "patterns": ["What part of the rotator cuff is most frequently injured?"],
+          "responses":[ "The supraspinatus muscle and tendon of the rotator cuff are the most frequently injured components. It is located on the top of the shoulder blade and helps lift the arm."]
+        },
+        {
+          "patterns": ["Who treats rotator cuff injury?"],
+          "responses":[ "Rotator cuff injuries are typically treated by orthopedic surgeons, sports medicine specialists, and physical therapists working together to provide medical and rehabilitative care."]
+        }
+      ,
+        {
+          "patterns": ["why rotator cuff tear"],
+          "responses": [
+            "A rotator cuff tear is a tear in the tendons that surround the shoulder joint. It can be caused by overuse, injury, or aging."
+          ]
+        },
+        {
+          "patterns": ["why are rotator cuff injuries common"],
+          "responses": [
+            "Rotator cuff injuries are common because the tendons in the rotator cuff are subject to a lot of wear and tear. They are also prone to injury from overhead activities, falls, and repetitive use."
+          ]
+        },
+        {
+          "patterns": ["why does rotator cuff tear hurt at night"],
+          "responses": [
+            "Rotator cuff tears can hurt at night because the shoulder joint is more relaxed when you are sleeping. This can put more stress on the tendons and make the pain worse."
+          ]
+        },
+        {
+          "patterns": ["why does rotator cuff tear hurt"],
+          "responses": [
+            "Rotator cuff tears can hurt because the tendons are no longer able to properly stabilize the shoulder joint. This can cause pain with movement, weakness, and instability."
+          ]
+        },
+        {
+          "patterns": ["does rotator cuff injury get better"],
+          "responses": [
+            "Rotator cuff injuries can get better with rest, physical therapy, and sometimes surgery. The severity of the tear and the patient's age and overall health will affect the chances of recovery."
+          ]
+        },
+        {
+          "patterns": ["how does your rotator cuff get injured"],
+          "responses": [
+            "Your rotator cuff can get injured by overuse, injury, or aging. Overuse injuries can happen from repetitive overhead activities, such as swimming or tennis. Injury can happen from a fall or a sudden movement. Aging can weaken the tendons in the rotator cuff, making them more prone to injury."
+          ]
+        },
+        {
+          "patterns": ["why is the rotator cuff prone to injury"],
+          "responses": [
+            "The rotator cuff is prone to injury because it is subject to a lot of wear and tear. The tendons in the rotator cuff are also relatively thin and weak, making them more susceptible to tearing. Additionally, the shoulder joint is a complex joint that is prone to instability, which can put more stress on the rotator cuff tendons."
+          ]
+        }
+      ,
+        {
+          "patterns": ["will rotator cuff injury heal on its own"],
+          "responses": ["Minor rotator cuff injuries may heal on their own with rest and conservative treatment, but more severe injuries might require medical intervention."]
+        },
+        {
+          "patterns": ["will rotator cuff injury heal itself"],
+          "responses": ["Rotator cuff injuries may heal on their own, especially if they are minor. However, some cases might need medical attention for proper healing."]
+        },
+        {
+          "patterns": ["will rotator cuff injury show on x ray"],
+          "responses": ["Rotator cuff injuries might not be visible on X-rays, as they primarily involve soft tissues like tendons and muscles. Other imaging techniques like MRI or ultrasound are more suitable for diagnosing such injuries."]
+        },
+        {
+          "patterns": ["can rotator cuff injury affect hand"],
+          "responses": ["A rotator cuff injury typically affects the shoulder and arm. While it might indirectly impact hand movement due to reduced shoulder function, it doesn't usually directly cause hand symptoms."]
+        },
+        {
+          "patterns": ["can rotator cuff injury cause breast pain"],
+          "responses": ["Rotator cuff injuries are not likely to cause breast pain. Breast pain could be due to various other factors, and if you're experiencing breast pain, it's important to consult a medical professional."]
+        },
+        {
+          "patterns": ["can rotator cuff injury cause chest pain"],
+          "responses": ["Rotator cuff injuries usually don't cause chest pain. If you're experiencing chest pain, it's crucial to seek medical attention, as it could be related to a different and potentially serious issue."]
+        },
+        {
+          "patterns": ["can rotator cuff injury cause neck pain"],
+          "responses": ["Rotator cuff injuries can sometimes lead to neck pain, especially if they cause you to change your posture or movement patterns. However, neck pain could also be attributed to other factors, so a proper medical assessment is recommended."]
+        },
+        {
+          "patterns": ["can rotator cuff injury cause numbness and tingling"],
+          "responses": ["Rotator cuff injuries might lead to numbness and tingling if they impinge on nerves in the shoulder area. It's important to consult a healthcare professional to determine the exact cause of these symptoms."]
+        },
+        {
+          "patterns": ["will rotator cuff tear show on xray"],
+          "responses": ["Rotator cuff tears might not be clearly visible on X-rays, but they can often be diagnosed using MRI or ultrasound for better soft tissue visualization."]
+        },
+        {
+          "patterns": ["can rotator cuff injury cause tingling fingers"],
+          "responses": ["Rotator cuff injuries could potentially lead to tingling in the fingers if they affect the nerves connected to the shoulder and arm. Consulting a medical professional can help determine the cause of the symptoms."]
+        },
+        {
+          "patterns": ["does rotator cuff injury hurt"],
+          "responses": ["Yes, rotator cuff injuries can be painful. The severity of the pain can vary depending on the extent of the injury, and it might worsen with certain movements or activities."]
+        },
+        {
+          "patterns": ["does rotator cuff tear require surgery"],
+          "responses": ["Not all rotator cuff tears require surgery. Minor tears or injuries might respond to conservative treatments like rest, physical therapy, and medication. However, larger or more severe tears might necessitate surgical intervention."]
+        },
+        {
+          "patterns": ["can rotator cuff tear cause neck pain"],
+          "responses": ["Rotator cuff tears might indirectly contribute to neck pain due to altered movement patterns or referred pain. If you're experiencing neck pain, consulting a healthcare professional is advised."]
+        },
+        {
+          "patterns": ["can rotator cuff tendonitis heal on its own"],
+          "responses": ["Mild cases of rotator cuff tendonitis might improve with rest, activity modification, and conservative treatments. However, more severe cases could require medical attention for proper healing."]
+        }
+      
+      
+      
+      
+    
+    
+    
+  ]
+  

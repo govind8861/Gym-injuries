@@ -24,7 +24,7 @@
 }
 
 .user-message {
-  background-color: #005C4B;
+  background-color: #85cf16;
   padding: 8px;
   margin: 8px 0;
   margin-right: 30px;
@@ -81,16 +81,17 @@ button {
   }
   
   .user-message {
+    padding-bottom: 0px;
     align-self: flex-end;
-    background-color: #dcf8c6;
+    background-color: rgb(242, 222, 198);
   }
   
   .system-message {
     align-self: flex-start;
     background-color: #f0f0f0;
-    padding-left:20px;
-    padding-top: 10px;
-    margin-bottom: 40px;
+    padding-left:10px;
+    padding-top: 10px;padding-bottom: 0px;
+    margin-bottom: 30px;
   }
   @media (min-height:800px) {
     
