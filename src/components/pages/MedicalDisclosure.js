@@ -28,7 +28,9 @@ const MedicalDisclosure = () => {
 			// Process the user's input and generate a system response based on backward chaining logic
 			setTimeout(() => {
 				const systemResponse = generateSystemResponse(userInput.toLowerCase()) // Replace with your logic
-
+				console.log('User Input:', userInput);
+				console.log('System Response:', systemResponse);
+	
 				// Add the user's message and the system response to the chat history
 				setChatHistory([
 					...chatHistory,
@@ -107,7 +109,7 @@ const MedicalDisclosure = () => {
 						better understand your situation.{' '}
 					</div>,
 				],
-			},
+						},
 			{
 				patterns: [
 					'sleep disruption','sleep issues','sleep problems','sleep discomfort',
@@ -116,7 +118,7 @@ const MedicalDisclosure = () => {
 					'get worse at night',
 					'disturb sleep',
 				],
-				response: [
+				responses: [
 					<div className="col-md-11">
 						I'm sorry to hear that you're not able to sleep at night because of
 						your shoulder pain.Your pain is not letting you sleep properly.can
@@ -125,7 +127,7 @@ const MedicalDisclosure = () => {
 						feel free to ask your question.{' '}
 					</div>,
 				],
-			},
+				},
 
 			{
 				patterns: [
@@ -142,7 +144,7 @@ const MedicalDisclosure = () => {
 					'experiencing weakness',
 					'fatigued','overhead workouts','heavy object lifting','high shelf tasks','weakness due to strain'
 				],
-				response: [
+				responses : [
 					<div className="col-md-11">
 						{' '}
 						Thank you for sharing that. Let's dive deeper into your symptoms.
@@ -165,7 +167,7 @@ const MedicalDisclosure = () => {
 					'high intensity pain','feeling sharp pain','pain characteristics',
 					'feeling sharp pain in shoulder',
 				],
-				response: [
+				responses : [
 					<div className="col-md-11">
 						<p>
 							{' '}
@@ -188,7 +190,7 @@ const MedicalDisclosure = () => {
 					'treatment of injury','rotator cuff treatmen','injury treatment','treatment options','treating injuries','healing methods','care for injuries',
 					'option 1.2',
 				],
-				response: [
+				responses : [
 					<div className="col-md-11 d-block justify-content-evenly">
 						{' '}
 						<p>
@@ -236,10 +238,10 @@ const MedicalDisclosure = () => {
 						</p>
 					</div>,
 				],
-			},
+		},
 			{
 				patterns: ['option 1.1','injury causes','causes of injuries','reasons for pain','injury origins','sources of discomfort'],
-				response: [
+				responses : [
 					<div className="col-md-11">
 						<h6>why rotator cuff injury happen?</h6>
 						<p>
@@ -277,29 +279,29 @@ const MedicalDisclosure = () => {
 				],
 				responses: [
 					<div className="col-md-11">
-						{' '}
-						<p>
-							Thank you for sharing that. Your description aligns with some
-							characteristics of a rotator cuff injury. The combination of a
-							dull ache that worsens at night and discomfort when reaching
-							behind your back can be concerning. These symptoms can be
-							associated with a rotator cuff strain or tear. While I can't
-							provide a definitive diagnosis, I recommend considering a medical
-							evaluation to determine the cause of your discomfort. A healthcare
-							professional can perform a thorough examination and provide
-							personalized recommendations.
-						</p>
-						<p>
-							[<span className="bg-primary text-white p-1 ">Option 1.1</span>:
-							if you wants to know more about rotator cuff injuries]
-						</p>
-						<p>
-							[<span className="bg-primary text-white p-1 ">Option 1.2</span>:
-							if you want to asks about treatment options]
-						</p>
-					</div>,
-				],
-			},
+					{' '}
+					<p>
+						Thank you for sharing that. Your description aligns with some
+						characteristics of a rotator cuff injury. The combination of a
+						dull ache that worsens at night and discomfort when reaching
+						behind your back can be concerning. These symptoms can be
+						associated with a rotator cuff strain or tear. While I can't
+						provide a definitive diagnosis, I recommend considering a medical
+						evaluation to determine the cause of your discomfort. A healthcare
+						professional can perform a thorough examination and provide
+						personalized recommendations.
+					</p>
+					<p>
+						[<span className="bg-primary text-white p-1 ">Option 1.1</span>:
+						if you wants to know more about rotator cuff injuries]
+					</p>
+					<p>
+						[<span className="bg-primary text-white p-1 ">Option 1.2</span>:
+						if you want to asks about treatment options]
+					</p>
+				</div>,
+		],
+	},
 			{
 				patterns: [
 					'no','no night pain','absence of nighttime pain',"pain doesn't worsen at night",
@@ -320,58 +322,48 @@ const MedicalDisclosure = () => {
 					</div>,
 				],
 			},
-			// Add more pattern-response pairs as needed
-			// ...
-			{
-				// Default response if no patterns match
-				patterns: [], // Empty array for default pattern
-				responses: [
-					<div className="col-md-11">
-						I'm sorry, I couldn't understand your input. Please provide more
-						details.
-					</div>,
-				],
-			},
-		]
+			]
+		
+	    const userTokens = userInput.toLowerCase().split(/\s+/);
 
-		for (const patternAndResponse of patternsAndResponses) {
-			const { patterns, responses } = patternAndResponse
+    let bestMatch = null;
+    let bestMatchTokens = 0;
 
-			if (!Array.isArray(patterns)) {
-				console.error("Invalid 'patterns' array:", patterns)
-				continue
-			}
+    for (const patternAndResponse of patternsAndResponses) {
+        const { patterns, responses } = patternAndResponse;
 
-			if (!Array.isArray(responses)) {
-				console.error("Invalid 'responses' array:", responses)
-				continue
-			}
+        if (!Array.isArray(patterns) || patterns.length === 0 || !Array.isArray(responses)) {
+            console.error("Invalid pattern-response pair:", patternAndResponse);
+            continue;
+        }
 
-			if (patterns.length === 0) {
-				return responses[0]
-			}
+        for (const pattern of patterns) {
+            const patternTokens = pattern.split(/\s+/);
 
-			const matchedPattern = patterns.find(keyword =>
-				userInput.includes(keyword),
-			)
+            const matchedTokens = patternTokens.filter(token =>
+                userTokens.includes(token)
+            );
+			console.log('Pattern:', patternTokens);
+            console.log('Matched Tokens:', matchedTokens);
 
-			if (matchedPattern) {
-				if (patterns === patternsAndResponses[0].patterns) {
-					const randomIndex = Math.floor(Math.random() * responses.length)
-					return responses[randomIndex]
-				} else if (responses.length > 1) {
-					const randomIndex =
-						Math.floor(Math.random() * (responses.length - 1)) + 1
-					return responses[randomIndex]
-				} else if (responses.length === 1) {
-					return responses[0]
-				}
-			}
-		}
 
-		console.error('No matching pattern found for input:', userInput)
-		return null // Return null if no patterns match
-	}
+            if (matchedTokens.length > bestMatchTokens) {
+                bestMatch = patternAndResponse;
+                bestMatchTokens = matchedTokens.length;
+            }
+        }
+    }
+	console.log('Best Match:', bestMatch);
+
+
+    if (bestMatch) {
+        const randomResponseIndex = Math.floor(Math.random() * bestMatch.responses.length);
+        return bestMatch.responses[randomResponseIndex];
+    } else {
+        console.error('No matching pattern found for input:', userInput);
+        return "I'm sorry, I couldn't understand your input. Please provide more details.";
+    }
+}
 
 	const handleKeyPress = event => {
 		if (event.key === 'Enter') {
