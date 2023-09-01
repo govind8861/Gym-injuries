@@ -42,47 +42,28 @@ const MedicalDisclosure = () => {
   }, [chatHistory]);
 
   const handleSubmit = () => {
-	if (userInput.trim() !== '') {
-	  setIsLoading(true);
-  
-	  // Process the user's input and generate a system response based on backward chaining logic
-	  setTimeout(() => {
-		const systemResponse = generateSystemResponse(userInput.toLowerCase()); // Replace with your logic
-		console.log('User Input:', userInput);
-		console.log('System Response:', systemResponse);
-  
-		// Add the user's message to the chat history
-		setChatHistory((prevHistory) => [
-		  ...prevHistory,
-		  { text: userInput, isUser: true },
-		]);
-  
-		// Split the system response into words
-		const words = systemResponse.split(/\s+/);
-  
-		// Display words one by one within a single message
-		let message = '';
-		const addWords = (index) => {
-		  if (index < words.length) {
-			message += (message === '' ? '' : ' ') + words[index];
-			setChatHistory((prevHistory) => [
-			  ...prevHistory.slice(0, -1), // Remove the last message (incomplete word)
-			  { text: message, isUser: false },
-			]);
-			setTimeout(() => {
-			  addWords(index + 1); // Recursively add the next word
-			},5); // Adjust the delay between words as needed
-		  } else {
-			setIsLoading(false);
-			setUserInput(''); // Clear the user input
-		  }
-		};
-  
-		addWords(0); // Start adding words from the beginning of the array
-	  }, 1000);
-	}
+    if (userInput.trim() !== '') {
+      setIsLoading(true);
+
+      // Process the user's input and generate a system response based on backward chaining logic
+      setTimeout(() => {
+        const systemResponse = generateSystemResponse(userInput.toLowerCase()); // Replace with your logic
+        console.log('User Input:', userInput);
+        console.log('System Response:', systemResponse);
+
+        // Add both the user's message and system response to the chat history
+        setChatHistory((prevHistory) => [
+          ...prevHistory,
+          { text: userInput, isUser: true },
+          { text: systemResponse, isUser: false },
+        ]);
+
+        setIsLoading(false);
+        setUserInput(''); // Clear the user input
+      }, 1000);
+    }
   };
-  
+
   // Simulated function to generate system responses based on user input
   const generateSystemResponse = (userInput) => {
     const userTokens = userInput.toLowerCase().split(/\s+/);
