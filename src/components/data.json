@@ -33,7 +33,15 @@
         "mood"
       ],
       "responses": [
-        "I'm just a computer program, so I don't have feelings, but I'm here and ready to help you with any patterns or tasks you have.\n\nHow can I assist you today?"
+        "I'm just a computer program, so I don't have feelings, but I'm here and ready to help you with any patterns or tasks you have.\n\nSo,How can I assist you today?"
+      ]
+    },
+    {"patterns":["i am feeling pain"]
+      ,"responses":["I'm sorry to hear that you're experiencing pain. To assist you effectively, could you please provide more details about the pain you're feeling? Specifically, can you describe the type of pain, its location, and its intensity? This information will help me better understand your situation and offer appropriate guidance."
+
+
+
+
       ]
     },
     {
