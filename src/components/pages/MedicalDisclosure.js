@@ -143,9 +143,11 @@ const MedicalDisclosure = () => {
 	  
 		if (exactMatch) {
 		  return exactMatch.responses[0]; // Exact match found
-		} else if (secondBestMatch) {
+		} 
+		else if (secondBestMatch) {
 		  return secondBestMatch.responses[0]; // Second best match found
-		} else {
+		}
+		 else {
 		  console.error('No matching pattern found for input:', userInput);
 		  return "I'm sorry, I couldn't understand your input. Please provide more details.";
 		}

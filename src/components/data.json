@@ -163,7 +163,8 @@
         "causes of injuries",
         "reasons for pain",
         "injury origins",
-        "sources of discomfort"
+        "sources of discomfort",
+        "can you tell me about rotator cuff injury"
       ],
       "responses": [
         "Why do rotator cuff injuries happen?\n\nRotator Cuff Tear: A ripping of one or more of the tendons. Result when a sudden eccentric force is applied to the rotator cuff resulting in the failure of the tendon. Uncommon under the age of 40 but strains do occur. In the population over 40 years of age, supraspinatus tears occur and less commonly, infraspinatus tears. Tears in the subscapularis tendon are uncommon and are often the result of a shoulder dislocation.\n\nCauses\n\nPoor posture: When you slouch your neck and shoulders forward, the space where the rotator cuff muscles reside can become smaller. This can allow a muscle or tendon to become pinched under your shoulder bones, including your collarbone, especially during overhead activities, such as throwing.\n\nFalling: Using your arm to break a fall or falling on your arm can bruise or tear a rotator cuff tendon or muscle.\n\nLifting or Pulling: Lifting an object that's too heavy, or doing so improperly (especially overhead), can strain or tear your tendons or muscles.\n\nPulling something, such as an archery bow of too heavy poundage, may cause an injury."
@@ -178,8 +179,8 @@
         "pain increase during nighttime",
         "pain worse at night",
         "yes the pain worst at night",
-        "yes",
-        "1"
+        "yes"
+        
       ],
       "responses": [
         "Thank you for sharing that. Your description aligns with some characteristics of a rotator cuff injury. The combination of a dull ache that worsens at night and discomfort when reaching behind your back can be concerning. These symptoms can be associated with a rotator cuff strain or tear. While I can't provide a definitive diagnosis, I recommend considering a medical evaluation to determine the cause of your discomfort. A healthcare professional can perform a thorough examination and provide personalized recommendations.\n\n[Option 1.1: if you want to know more about rotator cuff injuries]\n\n[Option 1.2: if you want to ask about treatment options]"
