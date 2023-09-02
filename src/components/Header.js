@@ -55,11 +55,11 @@ const Header = () => {
 				<li>
 					<ScrollToTopLink to="/contact">Contact</ScrollToTopLink>
 				</li>
-				<li>
+				{/* <li>
 					<ScrollToTopLink to="/user">
 						<i className="fa fa-user"></i>&nbsp;&nbsp;User
 					</ScrollToTopLink>
-				</li>
+				</li> */}
 			</ul>
 		</nav>
 	)

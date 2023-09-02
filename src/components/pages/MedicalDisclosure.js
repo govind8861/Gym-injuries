@@ -149,7 +149,7 @@ const MedicalDisclosure = () => {
           onKeyDown={handleKeyPress}
           // Handle "Enter" key press
         />
-        <button onClick={isLoading ? null : handleSubmit} disabled={isLoading}>
+        <button className='me-2' onClick={isLoading ? null : handleSubmit} disabled={isLoading}>
           {isLoading ? (
             <Bars
               height="30"

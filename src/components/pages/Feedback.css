@@ -1,0 +1,44 @@
+/* Add styles for star rating */
+.rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .star {
+    margin: 0 5px;
+    cursor: pointer;
+    font-size: 24px;
+  }
+  
+  /* Style the checked star */
+  .star input:checked + i.fa-star {
+    color: #fdd835; /* Change color for the checked star */
+  }
+  
+  /* Hide the default radio button */
+  .star input {
+    display: none;
+  }
+  
+  /* Style the star rating */
+.rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .star {
+    margin: 0 5px;
+    cursor: pointer;
+    font-size: 24px;
+    color: #ccc; /* Default star color */
+  }
+  
+  /* Style the checked star */
+  .star.selected {
+    color: #fdd835; /* Change color for the selected star */
+  }
+  

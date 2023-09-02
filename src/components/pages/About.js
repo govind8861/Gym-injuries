@@ -1,286 +1,49 @@
-import React from 'react'
+import React from 'react';
+import './About.css'; // Import your custom CSS file for additional styling
 
-const About = () => {
-	return (
-		<>
-			<div>
-				Abou Cupidatat pariatur fugiat deserunt consequat eu aliqua
-				reprehenderit id ex. Dolor sit quis eu et consectetur. Tempor quis Lorem
-				ea deserunt in elit incididunt in tempor reprehenderit.Ipsum in tempor
-				nostrud irure duis enim reprehenderit amet velit sit tempor exercitation
-				anim. Quis nulla enim dolore mollit anim elit. Ad ea adipisicing elit ad
-				est irure reprehenderit voluptate nostrud anim duis ullamco. Est ullamco
-				non labore magna reprehenderit dolor. Consequat dolore enim non
-				consequat cillum. Sit incididunt veniam ex officia eu consectetur qui
-				velit ullamco eu. Adipisicing aute id proident excepteur consectetur
-				nisi dolore fugiat. Nostrud officia ea laboris incididunt non laborum.
-				Exercitation eu ea fugiat sunt cillum tempor proident mollit duis
-				occaecat dolor. Duis magna cillum eiusmod ut culpa amet duis. Id ex
-				aliqua amet nulla aute ullamco ad qui nostrud exercitation deserunt
-				velit. Ipsum ad in incididunt consequat proident cupidatat esse
-				voluptate velit sunt pariatur non. Deserunt non ea est esse pariatur
-				reprehenderit sint. Id reprehenderit proident nulla ipsum qui ipsum
-				reprehenderit aute in ut culpa. Eu dolor amet id enim ipsum est dolor ut
-				nisi ea. Ex sint ipsum duis do in eiusmod ea ex occaecat reprehenderit
-				anim adipisicing aliqua nisi. Amet eiusmod esse aute reprehenderit
-				commodo amet elit reprehenderit elit veniam ullamco. Commodo consequat
-				ut amet veniam. Qui elit consectetur occaecat enim ea adipisicing aute
-				dolor occaecat nulla cillum dolor ex sunt. Eiusmod officia exercitation
-				fugiat labore veniam aliqua laboris consectetur ut. Duis amet
-				reprehenderit sunt commodo non excepteur cillum. Lorem occaecat aute
-				voluptate est quis. Amet dolor tempor veniam reprehenderit dolor amet
-				magna qui proident labore officia excepteur dolore. Dolor et incididunt
-				adipisicing sint dolor ut proident in excepteur tempor. Sit cillum
-				voluptate labore proident culpa aute cillum eu qui cillum enim
-				adipisicing ea ea. Proident ullamco eu ipsum sunt voluptate voluptate
-				esse et pariatur consectetur dolore. Ad mollit laboris deserunt
-				adipisicing. Reprehenderit irure amet nostrud dolor velit enim consequat
-				eiusmod cillum magna reprehenderit excepteur proident. Adipisicing
-				reprehenderit adipisicing aute ea. Laborum eiusmod nostrud consectetur
-				velit cupidatat. Ex dolor esse reprehenderit magna velit ullamco officia
-				sit cillum eiusmod reprehenderit pariatur. Consequat aliquip excepteur
-				minim duis deserunt cillum mollit tempor non irure quis deserunt Lorem
-				cillum. Nulla Lorem eu commodo do occaecat est minim fugiat quis velit
-				cupidatat est. Amet adipisicing elit enim qui adipisicing cillum id amet
-				tempor adipisicing. Ipsum consequat reprehenderit duis anim do. Duis
-				laboris anim aliquip dolore ex occaecat sint magna velit velit non
-				laborum fugiat commodo. Adipisicing elit nulla velit magna eiusmod duis.
-				Sunt eiusmod duis ea officia sunt occaecat deserunt laborum cupidatat
-				fugiat officia. Nisi quis ullamco in enim duis. Magna est deserunt sit
-				incididunt dolor duis qui Lorem officia aute magna.
-			</div>
-			<div>
-				Abou Cupidatat pariatur fugiat deserunt consequat eu aliqua
-				reprehenderit id ex. Dolor sit quis eu et consectetur. Tempor quis Lorem
-				ea deserunt in elit incididunt in tempor reprehenderit.Ipsum in tempor
-				nostrud irure duis enim reprehenderit amet velit sit tempor exercitation
-				anim. Quis nulla enim dolore mollit anim elit. Ad ea adipisicing elit ad
-				est irure reprehenderit voluptate nostrud anim duis ullamco. Est ullamco
-				non labore magna reprehenderit dolor. Consequat dolore enim non
-				consequat cillum. Sit incididunt veniam ex officia eu consectetur qui
-				velit ullamco eu. Adipisicing aute id proident excepteur consectetur
-				nisi dolore fugiat. Nostrud officia ea laboris incididunt non laborum.
-				Exercitation eu ea fugiat sunt cillum tempor proident mollit duis
-				occaecat dolor. Duis magna cillum eiusmod ut culpa amet duis. Id ex
-				aliqua amet nulla aute ullamco ad qui nostrud exercitation deserunt
-				velit. Ipsum ad in incididunt consequat proident cupidatat esse
-				voluptate velit sunt pariatur non. Deserunt non ea est esse pariatur
-				reprehenderit sint. Id reprehenderit proident nulla ipsum qui ipsum
-				reprehenderit aute in ut culpa. Eu dolor amet id enim ipsum est dolor ut
-				nisi ea. Ex sint ipsum duis do in eiusmod ea ex occaecat reprehenderit
-				anim adipisicing aliqua nisi. Amet eiusmod esse aute reprehenderit
-				commodo amet elit reprehenderit elit veniam ullamco. Commodo consequat
-				ut amet veniam. Qui elit consectetur occaecat enim ea adipisicing aute
-				dolor occaecat nulla cillum dolor ex sunt. Eiusmod officia exercitation
-				fugiat labore veniam aliqua laboris consectetur ut. Duis amet
-				reprehenderit sunt commodo non excepteur cillum. Lorem occaecat aute
-				voluptate est quis. Amet dolor tempor veniam reprehenderit dolor amet
-				magna qui proident labore officia excepteur dolore. Dolor et incididunt
-				adipisicing sint dolor ut proident in excepteur tempor. Sit cillum
-				voluptate labore proident culpa aute cillum eu qui cillum enim
-				adipisicing ea ea. Proident ullamco eu ipsum sunt voluptate voluptate
-				esse et pariatur consectetur dolore. Ad mollit laboris deserunt
-				adipisicing. Reprehenderit irure amet nostrud dolor velit enim consequat
-				eiusmod cillum magna reprehenderit excepteur proident. Adipisicing
-				reprehenderit adipisicing aute ea. Laborum eiusmod nostrud consectetur
-				velit cupidatat. Ex dolor esse reprehenderit magna velit ullamco officia
-				sit cillum eiusmod reprehenderit pariatur. Consequat aliquip excepteur
-				minim duis deserunt cillum mollit tempor non irure quis deserunt Lorem
-				cillum. Nulla Lorem eu commodo do occaecat est minim fugiat quis velit
-				cupidatat est. Amet adipisicing elit enim qui adipisicing cillum id amet
-				tempor adipisicing. Ipsum consequat reprehenderit duis anim do. Duis
-				laboris anim aliquip dolore ex occaecat sint magna velit velit non
-				laborum fugiat commodo. Adipisicing elit nulla velit magna eiusmod duis.
-				Sunt eiusmod duis ea officia sunt occaecat deserunt laborum cupidatat
-				fugiat officia. Nisi quis ullamco in enim duis. Magna est deserunt sit
-				incididunt dolor duis qui Lorem officia aute magna.
-			</div>
-			<div>
-				Abou Cupidatat pariatur fugiat deserunt consequat eu aliqua
-				reprehenderit id ex. Dolor sit quis eu et consectetur. Tempor quis Lorem
-				ea deserunt in elit incididunt in tempor reprehenderit.Ipsum in tempor
-				nostrud irure duis enim reprehenderit amet velit sit tempor exercitation
-				anim. Quis nulla enim dolore mollit anim elit. Ad ea adipisicing elit ad
-				est irure reprehenderit voluptate nostrud anim duis ullamco. Est ullamco
-				non labore magna reprehenderit dolor. Consequat dolore enim non
-				consequat cillum. Sit incididunt veniam ex officia eu consectetur qui
-				velit ullamco eu. Adipisicing aute id proident excepteur consectetur
-				nisi dolore fugiat. Nostrud officia ea laboris incididunt non laborum.
-				Exercitation eu ea fugiat sunt cillum tempor proident mollit duis
-				occaecat dolor. Duis magna cillum eiusmod ut culpa amet duis. Id ex
-				aliqua amet nulla aute ullamco ad qui nostrud exercitation deserunt
-				velit. Ipsum ad in incididunt consequat proident cupidatat esse
-				voluptate velit sunt pariatur non. Deserunt non ea est esse pariatur
-				reprehenderit sint. Id reprehenderit proident nulla ipsum qui ipsum
-				reprehenderit aute in ut culpa. Eu dolor amet id enim ipsum est dolor ut
-				nisi ea. Ex sint ipsum duis do in eiusmod ea ex occaecat reprehenderit
-				anim adipisicing aliqua nisi. Amet eiusmod esse aute reprehenderit
-				commodo amet elit reprehenderit elit veniam ullamco. Commodo consequat
-				ut amet veniam. Qui elit consectetur occaecat enim ea adipisicing aute
-				dolor occaecat nulla cillum dolor ex sunt. Eiusmod officia exercitation
-				fugiat labore veniam aliqua laboris consectetur ut. Duis amet
-				reprehenderit sunt commodo non excepteur cillum. Lorem occaecat aute
-				voluptate est quis. Amet dolor tempor veniam reprehenderit dolor amet
-				magna qui proident labore officia excepteur dolore. Dolor et incididunt
-				adipisicing sint dolor ut proident in excepteur tempor. Sit cillum
-				voluptate labore proident culpa aute cillum eu qui cillum enim
-				adipisicing ea ea. Proident ullamco eu ipsum sunt voluptate voluptate
-				esse et pariatur consectetur dolore. Ad mollit laboris deserunt
-				adipisicing. Reprehenderit irure amet nostrud dolor velit enim consequat
-				eiusmod cillum magna reprehenderit excepteur proident. Adipisicing
-				reprehenderit adipisicing aute ea. Laborum eiusmod nostrud consectetur
-				velit cupidatat. Ex dolor esse reprehenderit magna velit ullamco officia
-				sit cillum eiusmod reprehenderit pariatur. Consequat aliquip excepteur
-				minim duis deserunt cillum mollit tempor non irure quis deserunt Lorem
-				cillum. Nulla Lorem eu commodo do occaecat est minim fugiat quis velit
-				cupidatat est. Amet adipisicing elit enim qui adipisicing cillum id amet
-				tempor adipisicing. Ipsum consequat reprehenderit duis anim do. Duis
-				laboris anim aliquip dolore ex occaecat sint magna velit velit non
-				laborum fugiat commodo. Adipisicing elit nulla velit magna eiusmod duis.
-				Sunt eiusmod duis ea officia sunt occaecat deserunt laborum cupidatat
-				fugiat officia. Nisi quis ullamco in enim duis. Magna est deserunt sit
-				incididunt dolor duis qui Lorem officia aute magna.
-			</div>
-			<div>
-				Abou Cupidatat pariatur fugiat deserunt consequat eu aliqua
-				reprehenderit id ex. Dolor sit quis eu et consectetur. Tempor quis Lorem
-				ea deserunt in elit incididunt in tempor reprehenderit.Ipsum in tempor
-				nostrud irure duis enim reprehenderit amet velit sit tempor exercitation
-				anim. Quis nulla enim dolore mollit anim elit. Ad ea adipisicing elit ad
-				est irure reprehenderit voluptate nostrud anim duis ullamco. Est ullamco
-				non labore magna reprehenderit dolor. Consequat dolore enim non
-				consequat cillum. Sit incididunt veniam ex officia eu consectetur qui
-				velit ullamco eu. Adipisicing aute id proident excepteur consectetur
-				nisi dolore fugiat. Nostrud officia ea laboris incididunt non laborum.
-				Exercitation eu ea fugiat sunt cillum tempor proident mollit duis
-				occaecat dolor. Duis magna cillum eiusmod ut culpa amet duis. Id ex
-				aliqua amet nulla aute ullamco ad qui nostrud exercitation deserunt
-				velit. Ipsum ad in incididunt consequat proident cupidatat esse
-				voluptate velit sunt pariatur non. Deserunt non ea est esse pariatur
-				reprehenderit sint. Id reprehenderit proident nulla ipsum qui ipsum
-				reprehenderit aute in ut culpa. Eu dolor amet id enim ipsum est dolor ut
-				nisi ea. Ex sint ipsum duis do in eiusmod ea ex occaecat reprehenderit
-				anim adipisicing aliqua nisi. Amet eiusmod esse aute reprehenderit
-				commodo amet elit reprehenderit elit veniam ullamco. Commodo consequat
-				ut amet veniam. Qui elit consectetur occaecat enim ea adipisicing aute
-				dolor occaecat nulla cillum dolor ex sunt. Eiusmod officia exercitation
-				fugiat labore veniam aliqua laboris consectetur ut. Duis amet
-				reprehenderit sunt commodo non excepteur cillum. Lorem occaecat aute
-				voluptate est quis. Amet dolor tempor veniam reprehenderit dolor amet
-				magna qui proident labore officia excepteur dolore. Dolor et incididunt
-				adipisicing sint dolor ut proident in excepteur tempor. Sit cillum
-				voluptate labore proident culpa aute cillum eu qui cillum enim
-				adipisicing ea ea. Proident ullamco eu ipsum sunt voluptate voluptate
-				esse et pariatur consectetur dolore. Ad mollit laboris deserunt
-				adipisicing. Reprehenderit irure amet nostrud dolor velit enim consequat
-				eiusmod cillum magna reprehenderit excepteur proident. Adipisicing
-				reprehenderit adipisicing aute ea. Laborum eiusmod nostrud consectetur
-				velit cupidatat. Ex dolor esse reprehenderit magna velit ullamco officia
-				sit cillum eiusmod reprehenderit pariatur. Consequat aliquip excepteur
-				minim duis deserunt cillum mollit tempor non irure quis deserunt Lorem
-				cillum. Nulla Lorem eu commodo do occaecat est minim fugiat quis velit
-				cupidatat est. Amet adipisicing elit enim qui adipisicing cillum id amet
-				tempor adipisicing. Ipsum consequat reprehenderit duis anim do. Duis
-				laboris anim aliquip dolore ex occaecat sint magna velit velit non
-				laborum fugiat commodo. Adipisicing elit nulla velit magna eiusmod duis.
-				Sunt eiusmod duis ea officia sunt occaecat deserunt laborum cupidatat
-				fugiat officia. Nisi quis ullamco in enim duis. Magna est deserunt sit
-				incididunt dolor duis qui Lorem officia aute magna.
-			</div>
-			<div>
-				Abou Cupidatat pariatur fugiat deserunt consequat eu aliqua
-				reprehenderit id ex. Dolor sit quis eu et consectetur. Tempor quis Lorem
-				ea deserunt in elit incididunt in tempor reprehenderit.Ipsum in tempor
-				nostrud irure duis enim reprehenderit amet velit sit tempor exercitation
-				anim. Quis nulla enim dolore mollit anim elit. Ad ea adipisicing elit ad
-				est irure reprehenderit voluptate nostrud anim duis ullamco. Est ullamco
-				non labore magna reprehenderit dolor. Consequat dolore enim non
-				consequat cillum. Sit incididunt veniam ex officia eu consectetur qui
-				velit ullamco eu. Adipisicing aute id proident excepteur consectetur
-				nisi dolore fugiat. Nostrud officia ea laboris incididunt non laborum.
-				Exercitation eu ea fugiat sunt cillum tempor proident mollit duis
-				occaecat dolor. Duis magna cillum eiusmod ut culpa amet duis. Id ex
-				aliqua amet nulla aute ullamco ad qui nostrud exercitation deserunt
-				velit. Ipsum ad in incididunt consequat proident cupidatat esse
-				voluptate velit sunt pariatur non. Deserunt non ea est esse pariatur
-				reprehenderit sint. Id reprehenderit proident nulla ipsum qui ipsum
-				reprehenderit aute in ut culpa. Eu dolor amet id enim ipsum est dolor ut
-				nisi ea. Ex sint ipsum duis do in eiusmod ea ex occaecat reprehenderit
-				anim adipisicing aliqua nisi. Amet eiusmod esse aute reprehenderit
-				commodo amet elit reprehenderit elit veniam ullamco. Commodo consequat
-				ut amet veniam. Qui elit consectetur occaecat enim ea adipisicing aute
-				dolor occaecat nulla cillum dolor ex sunt. Eiusmod officia exercitation
-				fugiat labore veniam aliqua laboris consectetur ut. Duis amet
-				reprehenderit sunt commodo non excepteur cillum. Lorem occaecat aute
-				voluptate est quis. Amet dolor tempor veniam reprehenderit dolor amet
-				magna qui proident labore officia excepteur dolore. Dolor et incididunt
-				adipisicing sint dolor ut proident in excepteur tempor. Sit cillum
-				voluptate labore proident culpa aute cillum eu qui cillum enim
-				adipisicing ea ea. Proident ullamco eu ipsum sunt voluptate voluptate
-				esse et pariatur consectetur dolore. Ad mollit laboris deserunt
-				adipisicing. Reprehenderit irure amet nostrud dolor velit enim consequat
-				eiusmod cillum magna reprehenderit excepteur proident. Adipisicing
-				reprehenderit adipisicing aute ea. Laborum eiusmod nostrud consectetur
-				velit cupidatat. Ex dolor esse reprehenderit magna velit ullamco officia
-				sit cillum eiusmod reprehenderit pariatur. Consequat aliquip excepteur
-				minim duis deserunt cillum mollit tempor non irure quis deserunt Lorem
-				cillum. Nulla Lorem eu commodo do occaecat est minim fugiat quis velit
-				cupidatat est. Amet adipisicing elit enim qui adipisicing cillum id amet
-				tempor adipisicing. Ipsum consequat reprehenderit duis anim do. Duis
-				laboris anim aliquip dolore ex occaecat sint magna velit velit non
-				laborum fugiat commodo. Adipisicing elit nulla velit magna eiusmod duis.
-				Sunt eiusmod duis ea officia sunt occaecat deserunt laborum cupidatat
-				fugiat officia. Nisi quis ullamco in enim duis. Magna est deserunt sit
-				incididunt dolor duis qui Lorem officia aute magna.
-			</div>
-			<div>
-				Abou Cupidatat pariatur fugiat deserunt consequat eu aliqua
-				reprehenderit id ex. Dolor sit quis eu et consectetur. Tempor quis Lorem
-				ea deserunt in elit incididunt in tempor reprehenderit.Ipsum in tempor
-				nostrud irure duis enim reprehenderit amet velit sit tempor exercitation
-				anim. Quis nulla enim dolore mollit anim elit. Ad ea adipisicing elit ad
-				est irure reprehenderit voluptate nostrud anim duis ullamco. Est ullamco
-				non labore magna reprehenderit dolor. Consequat dolore enim non
-				consequat cillum. Sit incididunt veniam ex officia eu consectetur qui
-				velit ullamco eu. Adipisicing aute id proident excepteur consectetur
-				nisi dolore fugiat. Nostrud officia ea laboris incididunt non laborum.
-				Exercitation eu ea fugiat sunt cillum tempor proident mollit duis
-				occaecat dolor. Duis magna cillum eiusmod ut culpa amet duis. Id ex
-				aliqua amet nulla aute ullamco ad qui nostrud exercitation deserunt
-				velit. Ipsum ad in incididunt consequat proident cupidatat esse
-				voluptate velit sunt pariatur non. Deserunt non ea est esse pariatur
-				reprehenderit sint. Id reprehenderit proident nulla ipsum qui ipsum
-				reprehenderit aute in ut culpa. Eu dolor amet id enim ipsum est dolor ut
-				nisi ea. Ex sint ipsum duis do in eiusmod ea ex occaecat reprehenderit
-				anim adipisicing aliqua nisi. Amet eiusmod esse aute reprehenderit
-				commodo amet elit reprehenderit elit veniam ullamco. Commodo consequat
-				ut amet veniam. Qui elit consectetur occaecat enim ea adipisicing aute
-				dolor occaecat nulla cillum dolor ex sunt. Eiusmod officia exercitation
-				fugiat labore veniam aliqua laboris consectetur ut. Duis amet
-				reprehenderit sunt commodo non excepteur cillum. Lorem occaecat aute
-				voluptate est quis. Amet dolor tempor veniam reprehenderit dolor amet
-				magna qui proident labore officia excepteur dolore. Dolor et incididunt
-				adipisicing sint dolor ut proident in excepteur tempor. Sit cillum
-				voluptate labore proident culpa aute cillum eu qui cillum enim
-				adipisicing ea ea. Proident ullamco eu ipsum sunt voluptate voluptate
-				esse et pariatur consectetur dolore. Ad mollit laboris deserunt
-				adipisicing. Reprehenderit irure amet nostrud dolor velit enim consequat
-				eiusmod cillum magna reprehenderit excepteur proident. Adipisicing
-				reprehenderit adipisicing aute ea. Laborum eiusmod nostrud consectetur
-				velit cupidatat. Ex dolor esse reprehenderit magna velit ullamco officia
-				sit cillum eiusmod reprehenderit pariatur. Consequat aliquip excepteur
-				minim duis deserunt cillum mollit tempor non irure quis deserunt Lorem
-				cillum. Nulla Lorem eu commodo do occaecat est minim fugiat quis velit
-				cupidatat est. Amet adipisicing elit enim qui adipisicing cillum id amet
-				tempor adipisicing. Ipsum consequat reprehenderit duis anim do. Duis
-				laboris anim aliquip dolore ex occaecat sint magna velit velit non
-				laborum fugiat commodo. Adipisicing elit nulla velit magna eiusmod duis.
-				Sunt eiusmod duis ea officia sunt occaecat deserunt laborum cupidatat
-				fugiat officia. Nisi quis ullamco in enim duis. Magna est deserunt sit
-				incididunt dolor duis qui Lorem officia aute magna.
-			</div>
-		</>
-	)
+function About() {
+  return (
+    <section className="about-section">
+      <div className="container-fluid">
+        <div className="row">
+          <div className="col-md-12">
+            <h2 className="about-header h1 my-2 py-3 ">About</h2>
+          </div>
+        </div>
+        <div className="row py-4">
+          <div className="col-md-6 mb-4">
+            <div className="about-content">
+              <div className="about-point">
+                <h3 className="point-title">Treatment of Injuries</h3>
+                <p className="point-description">
+                  We provide comprehensive information on injury treatments, including diagnosis, therapy, and rehabilitation techniques. Our goal is to help you make informed decisions about your health.
+                </p>
+              </div>
+              <div className="about-point">
+                <h3 className="point-title">Why Use Our Chat App</h3>
+                <p className="point-description">
+                  Our chat app offers real-time access to injury experts. You can chat with professionals who can provide personalized advice and guidance tailored to your specific injury-related concerns.
+                </p>
+              </div>
+              <div className="about-point">
+                <h3 className="point-title">What You'll Get</h3>
+                <p className="point-description">
+                  By using our app, you'll gain access to a wealth of injury-related knowledge, receive answers to your questions, and connect with a supportive community dedicated to health and wellness.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <img
+              src="https://www.muscleandfitness.com/wp-content/uploads/2023/07/onclockinjury514.jpg?quality=86&strip=all" // Replace with your actual image URL
+              alt="App Image"
+              className="img-fluid about-image mb-3"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+  );
 }
 
-export default About
+export default About;
