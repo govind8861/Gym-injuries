@@ -1,4 +1,620 @@
 [
+  
+    {
+      "patterns": ["rotator cuff injury assessment"],
+      "responses": ["A rotator cuff injury assessment typically involves a physical examination by a healthcare professional. They may also use imaging tests like MRI or ultrasound to diagnose the extent of the injury."]
+    },
+    {
+      "patterns": ["rotator cuff injury articles", "rotator cuff injury and frozen shoulder", "rotator cuff injury anatomy", "rotator cuff injury and neck pain", "rotator cuff injury after fall", "rotator cuff injury and swimming", "rotator cuff injury arm pain", "rotator cuff injury australia", "rotator cuff injury after car accident", "rotator cuff injury and numb fingers"],
+      "responses": ["These topics cover various aspects of rotator cuff injuries, their causes, symptoms, and related conditions. It's essential to seek medical advice for proper evaluation and treatment."]
+    },
+    {
+      "patterns": ["rotator cuff injury and push ups", "rotator cuff injury and golf", "rotator cuff injury and dizziness", "rotator cuff injury badminton", "rotator cuff injury brace", "rotator cuff injury bowling", "rotator cuff injury bench press", "rotator cuff injury baseball", "rotator cuff injury boxing", "rotator cuff injury bicep pain"],
+      "responses": ["Rotator cuff injuries can result from various activities, including sports like golf, boxing, or badminton. Depending on the severity, treatment options may vary."]
+    },
+    {
+      "patterns": ["rotator cuff injury bruising", "rotator cuff injury back pain", "rotator cuff injury best way to sleep", "rotator cuff injury bench press reddit", "rotator cuff injury burning sensation", "rotator cuff injury basketball", "rotator cuff injury bjj", "rotator cuff injury bursitis", "rotator cuff injury causes", "rotator cuff injury cricket"],
+      "responses": ["Bruising, burning sensations, and pain are common symptoms of rotator cuff injuries. Proper diagnosis and treatment are crucial for recovery."]
+    },
+    {
+      "patterns": ["rotator cuff injury case study", "rotator cuff injury cure", "rotator cuff injury classification", "rotator cuff injury clinical features", "rotator cuff injury conservative treatment", "rotator cuff injury cast", "rotator cuff injury cause neck pain", "rotator cuff injury cks", "rotator cuff injury chiropractor", "rotator cuff injury car accident"],
+      "responses": ["Rotator cuff injuries vary in severity, and the treatment approach depends on the specific case. Consulting a healthcare professional is vital for an accurate diagnosis and appropriate management."]
+    },
+    {
+      "patterns": ["rotator cuff injury climbing", "rotator cuff injury can't lift arm", "rotator cuff injury chest pain", "rotator cuff injury definition", "rotator cuff injury diagnosis", "rotator cuff injury differential diagnosis", "rotator cuff injury diagram", "rotator cuff injury doctor near me", "rotator cuff injury diagnosis tests", "rotator cuff injury doctor"],
+      "responses": ["A doctor or orthopedic specialist can provide a proper diagnosis for rotator cuff injuries. They may use imaging tests and physical exams to determine the extent of the injury."]
+    },
+    {
+      "patterns": ["rotator cuff injury duration", "rotator cuff injury during sleep", "rotator cuff injury driving", "rotator cuff injury dog walking", "rotator cuff injury diabetes", "rotator cuff injury drop arm test", "rotator cuff injury disability", "rotator cuff injury dislocation"],
+      "responses": ["The duration and recovery time for rotator cuff injuries can vary depending on the severity and treatment. It's essential to follow medical advice for a full recovery."]
+    },
+    {
+      "patterns": ["rotator cuff injury exercises", "rotator cuff injury exercises to avoid", "rotator cuff injury examination", "rotator cuff injury exercises nhs", "rotator cuff injury exercises pdf", "rotator cuff injury exercises youtube", "rotator cuff injury elbow pain", "rotator cuff injury exam", "rotator cuff injury exercises to heal", "rotator cuff injury explained"],
+      "responses": ["Physical therapy and exercises are often part of the treatment plan for rotator cuff injuries. They can help strengthen the muscles and improve range of motion during recovery."]
+    },
+    {
+      "patterns": ["rotator cuff injury eds", "rotator cuff injury exercises australia", "rotator cuff injury epidemiology", "rotator cuff injury etiology", "rotator cuff injury emergency room"],
+      "responses": ["The etiology and epidemiology of rotator cuff injuries are areas of study related to their causes and prevalence. If you suspect a rotator cuff injury, consider seeking medical attention."]
+    }
+  , 
+  
+    {
+      "patterns": ["rotator cuff injury from holding phone"],
+      "responses": ["Rotator cuff injuries can occur due to various activities, including prolonged phone use or poor posture. It's essential to maintain good ergonomics to prevent such injuries."]
+    },
+    {
+      "patterns": ["rotator cuff injury food", "rotator cuff injury from sleeping", "rotator cuff injury from fall", "rotator cuff injury from car accident", "rotator cuff injury from crutches", "rotator cuff injury from bench press", "rotator cuff injury fix", "rotator cuff injury feel like", "rotator cuff injury first aid", "rotator cuff injury from swimming"],
+      "responses": ["Rotator cuff injuries can result from different causes. If you suspect an injury, it's advisable to consult a healthcare professional for evaluation and appropriate guidance."]
+    },
+    {
+      "patterns": ["rotator cuff injury from golf", "rotator cuff injury from working out", "rotator cuff injury front of shoulder", "rotator cuff injury feeling", "rotator cuff injury gym", "rotator cuff injury grades", "rotator cuff injury golf", "rotator cuff injury getting worse", "rotator cuff injury gym exercises", "rotator cuff injury gym reddit"],
+      "responses": ["Rotator cuff injuries may be aggravated by certain exercises or activities, including those performed in the gym. Consulting a physical therapist can help develop a safe workout routine."]
+    },
+    {
+      "patterns": ["rotator cuff injury guidelines", "rotator cuff injury grinding", "rotator cuff injury goalkeeper", "rotator cuff injury gp notebook", "rotator cuff injury golf reddit", "rotator cuff injury genetic", "rotator cuff injury gymnastics", "rotator cuff injury grip strength"],
+      "responses": ["Guidelines for managing rotator cuff injuries may include exercises, physical therapy, and, in some cases, surgery. The approach depends on the severity and specific needs of the patient."]
+    },
+    {
+      "patterns": ["rotator cuff injury healing time", "rotator cuff injury heal on its own", "rotator cuff injury how to heal", "rotator cuff injury home treatment", "rotator cuff injury home exercises", "rotator cuff injury how long to heal", "rotator cuff injury heat or ice", "rotator cuff injury holding baby", "rotator cuff injury how to sleep", "rotator cuff injury how to fix", "rotator cuff injury hypermobility"],
+      "responses": ["The healing time for rotator cuff injuries can vary depending on the severity and treatment approach. It's essential to follow medical advice for a full recovery."]
+    },
+    {
+      "patterns": ["rotator cuff injury hip", "rotator cuff injury hurts to breathe", "rotator cuff injury how to tell", "rotator cuff injury hand numbness"],
+      "responses": ["Rotator cuff injuries can lead to various symptoms, including pain, limited range of motion, and numbness. Seeking medical attention is crucial for accurate diagnosis and treatment."]
+    },
+    {
+      "patterns": ["rotator cuff injury icd 10", "rotator cuff injury in hindi", "rotator cuff injury in sports", "rotator cuff injury is called", "rotator cuff injury images", "rotator cuff injury in gym", "rotator cuff injury investigation", "rotator cuff injury in shoulder", "rotator cuff injury ice or heat", "rotator cuff injury in spanish", "rotator cuff injury injection", "rotator cuff injury in chinese", "rotator cuff injury in child", "rotator cuff injury icd", "rotator cuff injury icd 10 code"],
+      "responses": ["Rotator cuff injuries have specific diagnostic codes (ICD-10) for medical documentation. Consulting a healthcare professional can provide accurate diagnosis and appropriate coding."]
+    },
+    {
+      "patterns": ["rotator cuff injury jiu jitsu", "rotator cuff injury journal articles", "rotator cuff injury johns hopkins", "rotator cuff injury joint", "rotator cuff tear jaw pain", "rotator cuff tear jaaos", "rotator cuff tear jospt", "rotator cuff tear jobe test", "rotator cuff tear just", "rotator cuff injury and jaw pain", "rotator cuff joint tear", "rotator cuff tear myotendinous junction", "rotator cuff or ac joint injury", "rotator cuff vs ac joint injury", "jogging with rotator cuff injury"],
+      "responses": ["Rotator cuff injuries and related conditions are subjects of research and study. Medical journals and institutions like Johns Hopkins may provide valuable information."]
+    },
+    {
+      "patterns": ["rotator cuff injury kt tape", "rotator cuff injury kayaking", "rotator cuff injury kinesio tape", "rotator cuff injury keeps coming back", "rotator cuff injury knitting", "rotator cuff knee injury", "rotator cuff tear kinesio tape", "rotator cuff tendonitis kt tape", "rotator cuff tendonitis kinesio tape", "rotator cuff tear knee", "rotator cuff tear kinematics", "rotator cuff injury shoulder keeps popping", "rotator cuff tendonitis also known as", "rotator cuff tear also known as","rotator cuff tear is known as", "rotator cuff tear left knee icd 10"],
+      "responses": ["KT tape and similar techniques can sometimes be used to support and manage rotator cuff injuries. However, it's important to consult a healthcare professional for personalized guidance."]
+    }
+  
+, 
+  {
+    "patterns": ["rotator cuff injury location", "rotator cuff injury left shoulder icd 10", "rotator cuff injury left untreated", "rotator cuff injury lateral raise", "rotator cuff injury last for", "rotator cuff injury lump", "rotator cuff injury levels", "rotator cuff injury limitations", "rotator cuff injury lawsuit", "rotator cuff injury length", "rotator cuff injury lifting", "rotator cuff injury long term", "rotator cuff injury leaflet", "rotator cuff injury length recovery", "rotator cuff injury lifting weights"],
+    "responses": ["Rotator cuff injuries can occur in the shoulder area and may vary in severity. Early diagnosis and proper treatment are essential for recovery."]
+  },
+  {
+    "patterns": ["rotator cuff injury mri", "rotator cuff injury meaning", "rotator cuff injury muscles", "rotator cuff injury management", "rotator cuff injury medicine", "rotator cuff injury meaning in hindi", "rotator cuff injury muscles involved", "rotator cuff injury mechanism", "rotator cuff injury mayo clinic", "rotator cuff injury mri images", "rotator cuff injury massage", "rotator cuff injury medication", "rotator cuff injury mri with or without contrast", "rotator cuff injury mountain biking", "rotator cuff injury medical term"],
+    "responses": ["MRI scans are often used to diagnose and assess rotator cuff injuries. The management and treatment of these injuries depend on their severity."]
+  },
+  {
+    "patterns": ["rotator cuff injury name", "rotator cuff injury ncbi", "rotator cuff injury nhs", "rotator cuff injury neck pain", "rotator cuff injury not healing", "rotator cuff injury nz", "rotator cuff injury numbness in fingers", "rotator cuff injury nice cks", "rotator cuff injury not getting better", "rotator cuff injury nerve pain", "rotator cuff injury numb hand", "rotator cuff injury not tear", "rotator cuff injury nerve damage", "rotator cuff injury never heals", "rotator cuff injury no pain", "rotator cuff injury orthobullets"],
+    "responses": ["Rotator cuff injuries can have various names and classifications. Seeking medical evaluation is crucial for an accurate diagnosis."]
+  },
+  {
+    "patterns": ["rotator cuff injury operation", "rotator cuff injury other name", "rotator cuff injury on xray", "rotator cuff injury or frozen shoulder", "rotator cuff injury on mri", "rotator cuff injury or tear", "rotator cuff injury occupational therapy", "rotator cuff injury or pulled muscle", "rotator cuff injury or impingement", "rotator cuff injury or tendonitis", "rotator cuff injury or something else", "rotator cuff injury or pinched nerve", "rotator cuff injury on ultrasound", "rotator cuff injury of shoulder"],
+    "responses": ["Rotator cuff injuries may require surgical intervention in some cases. The choice of treatment depends on the specific condition and its severity."]
+  },
+  {
+    "patterns": ["rotator cuff injury physiopedia", "rotator cuff injury ppt", "rotator cuff injury physiotherapy ppt", "rotator cuff injury pain location", "rotator cuff injury pdf", "rotator cuff injury physical therapy", "rotator cuff injury pain", "rotator cuff injury physiotherapy assessment", "rotator cuff injury precautions", "rotator cuff injury pathophysiology", "rotator cuff injury pathology", "rotator cuff injury physio", "rotator cuff injury physiotherapy exercises", "rotator cuff injury pain relief", "rotator cuff injury prevention"],
+    "responses": ["Physiotherapy and exercises play a crucial role in the recovery of rotator cuff injuries. Understanding the pathology and following precautions are important for rehabilitation."]
+  }
+,
+
+  {
+    "patterns": ["does rotator cuff injury qualify for disability"],
+    "responses": ["The qualification for disability due to a rotator cuff injury depends on various factors, including the severity of the injury, its impact on your ability to work, and the specific disability programs in your region. It's advisable to consult with a healthcare professional and your local disability office for specific guidance."]
+  },
+  {
+    "patterns": ["how to heal a rotator cuff injury quickly"],
+    "responses": ["Quick healing of a rotator cuff injury typically involves a combination of rest, physical therapy, and possibly surgical intervention depending on the severity. Consult a healthcare professional for a personalized treatment plan."]
+  },
+  {
+    "patterns": ["rotator cuff injury radiology"],
+    "responses": ["Rotator cuff injury radiology typically includes imaging techniques such as X-rays, MRI, or ultrasound to assess the extent and location of the injury. These images help in diagnosing and planning the appropriate treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury recovery time"],
+    "responses": ["Recovery time for a rotator cuff injury varies depending on its severity and the chosen treatment. It can range from a few weeks with conservative treatment to several months after surgery. Consult your healthcare provider for a more accurate estimate."]
+  },
+  {
+    "patterns": ["rotator cuff injury rehab"],
+    "responses": ["Rotator cuff injury rehab typically includes exercises, stretches, and physical therapy to strengthen the shoulder muscles, improve range of motion, and promote healing. The specific rehab plan will be tailored to your condition."]
+  },
+  {
+    "patterns": ["rotator cuff injury rehab protocol"],
+    "responses": ["A rotator cuff injury rehab protocol should be developed by a healthcare professional based on your specific condition. It may include a series of exercises, stretches, and milestones to track your progress. Consult your healthcare provider for a personalized protocol."]
+  },
+  {
+    "patterns": ["rotator cuff injury reasons"],
+    "responses": ["Common reasons for a rotator cuff injury include overuse, trauma, aging, and degeneration of the tendons over time. It can also occur due to repetitive overhead activities or lifting heavy objects."]
+  },
+  {
+    "patterns": ["rotator cuff injury reddit"],
+    "responses": ["Yes, you can find a subreddit dedicated to rotator cuff injuries on Reddit. It's a platform where people share their experiences and seek advice. Be sure to follow community guidelines and consult healthcare professionals for medical advice."]
+  },
+  {
+    "patterns": ["rotator cuff injury radiology assistant"],
+    "responses": ["Rotator cuff injury radiology assistant is a specialized role in the medical field that may assist with imaging procedures related to rotator cuff injuries. Consult with a healthcare provider for more information."]
+  },
+  {
+    "patterns": ["rotator cuff injury remedy"],
+    "responses": ["Remedies for a rotator cuff injury often involve rest, ice, physical therapy, and sometimes anti-inflammatory medications. However, it's crucial to consult a healthcare professional for proper evaluation and treatment recommendations."]
+  },
+  {
+    "patterns": ["rotator cuff injury repair"],
+    "responses": ["Rotator cuff injury repair may involve surgical intervention to reattach or repair torn tendons. The specific procedure depends on the extent of the injury. Consult with an orthopedic surgeon for details."]
+  },
+  {
+    "patterns": ["rotator cuff injury recovery exercises"],
+    "responses": ["Recommended exercises for rotator cuff injury recovery include range-of-motion exercises, strengthening exercises, and stretches. These should be prescribed by a physical therapist based on your individual needs."]
+  },
+  {
+    "patterns": ["rotator cuff injury rehabilitation"],
+    "responses": ["Yes, there are rehabilitation protocols for rotator cuff injuries that include a structured program of exercises and therapy to help restore shoulder function. Consult a healthcare professional for a personalized plan."]
+  },
+  {
+    "patterns": ["rotator cuff injury rehabilitation protocol"],
+    "responses": ["Rehabilitation protocols for rotator cuff injuries typically include a series of exercises, stretches, and therapy sessions to promote healing and improve shoulder function. Your specific protocol will be determined by a healthcare professional."]
+  },
+  {
+    "patterns": ["rotator cuff injury recovery time without surgery"],
+    "responses": ["Recovery time for a rotator cuff injury without surgery can vary widely depending on the severity of the injury and the effectiveness of conservative treatments. It may take several weeks to several months to achieve full recovery."]
+  },
+  {
+    "patterns": ["rotator cuff injury right shoulder icd 10"],
+    "responses": ["The ICD-10 code for a rotator cuff injury in the right shoulder is typically found under the M75.1 category, but the specific code may vary depending on the diagnosis. Consult a healthcare professional for accurate coding."]
+  },
+  {
+    "patterns": ["rotator cuff injury running"],
+    "responses": ["Running with a rotator cuff injury is not recommended until it has healed or until you receive guidance from a healthcare professional. Running can place stress on the shoulder, potentially worsening the injury."]
+  }
+
+,
+
+  {
+    "patterns": ["rotator cuff injury symptoms"],
+    "responses": ["Common symptoms of a rotator cuff injury include shoulder pain, weakness, limited range of motion, and difficulty raising your arm. If you experience these symptoms, it's important to seek medical evaluation."]
+  },
+  {
+    "patterns": ["rotator cuff injury special test"],
+    "responses": ["Special tests, such as the Neer test and Hawkins-Kennedy test, are often used by healthcare professionals to diagnose rotator cuff injuries. These tests help assess the integrity of the rotator cuff tendons and can aid in diagnosis."]
+  },
+  {
+    "patterns": ["rotator cuff injury slideshare"],
+    "responses": ["Slideshare is a platform for sharing presentations and documents. You may find presentations related to rotator cuff injuries on Slideshare, but it's important to consult medical professionals for accurate information about diagnosis and treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury surgery"],
+    "responses": ["Rotator cuff surgery may be recommended for severe injuries or cases where conservative treatments have not been effective. The specific surgical procedure will depend on the nature and extent of the injury. Consult with an orthopedic surgeon for details."]
+  },
+  {
+    "patterns": ["rotator cuff injury serious"],
+    "responses": ["Rotator cuff injuries can range from mild to severe. Severe cases can be serious and may require surgical intervention. It's important to consult with a healthcare professional to assess the severity of your injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury strengthening exercises"],
+    "responses": ["Strengthening exercises, prescribed by a physical therapist, can help improve the strength of the shoulder muscles and support the healing process of a rotator cuff injury. These exercises should be tailored to your specific condition."]
+  },
+  {
+    "patterns": ["rotator cuff injury swimming"],
+    "responses": ["Swimming can be a beneficial exercise for rotator cuff injury rehabilitation, but it should be done under the guidance of a physical therapist. It can help improve range of motion and strengthen the shoulder muscles."]
+  },
+  {
+    "patterns": ["rotator cuff injury surgery recovery time"],
+    "responses": ["The recovery time after rotator cuff surgery can vary depending on the type of surgery and individual factors. It may take several months to fully recover and regain strength and function in the shoulder."]
+  },
+  {
+    "patterns": ["rotator cuff injury surgery cost"],
+    "responses": ["The cost of rotator cuff surgery can vary widely depending on factors such as the type of surgery, location, and insurance coverage. It's best to consult with your healthcare provider and insurance company for cost details."]
+  },
+  {
+    "patterns": ["rotator cuff injury sling"],
+    "responses": ["A sling may be recommended after rotator cuff surgery to support and protect the shoulder during the initial stages of healing. The duration of sling use will depend on the surgeon's instructions."]
+  },
+  {
+    "patterns": ["rotator cuff injury support"],
+    "responses": ["Support for a rotator cuff injury includes rest, physical therapy, and possibly the use of braces or slings. It's important to follow the guidance of healthcare professionals for effective support and recovery."]
+  },
+  {
+    "patterns": ["rotator cuff injury sleeping"],
+    "responses": ["Sleeping with a rotator cuff injury can be challenging. Using pillows to support your arm and finding a comfortable sleeping position may help reduce discomfort. Consult with a physical therapist for sleep recommendations."]
+  },
+  {
+    "patterns": ["rotator cuff injury strapping"],
+    "responses": ["Strapping or taping techniques may be used as part of rotator cuff injury rehabilitation to support the shoulder joint and improve stability. These techniques should be applied by a trained professional."]
+  },
+  {
+    "patterns": ["rotator cuff injury symptoms nhs"],
+    "responses": ["The National Health Service (NHS) in the UK provides information and medical services. If you suspect you have rotator cuff injury symptoms, you can seek evaluation and treatment through the NHS."]
+  },
+  {
+    "patterns": ["rotator cuff injury steroid injection"],
+    "responses": ["Steroid injections may be considered for the management of rotator cuff pain and inflammation. They can provide temporary relief, but their long-term efficacy may vary. Consult with a healthcare provider for recommendations."]
+  },
+  {
+    "patterns": ["rotator cuff injury test"],
+    "responses": ["Tests for rotator cuff injuries may include physical examinations, imaging studies (such as MRI or ultrasound), and special tests performed by healthcare professionals. These tests help diagnose the condition and determine the appropriate treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury treatment"],
+    "responses": ["Treatment for a rotator cuff injury may include rest, physical therapy, anti-inflammatory medications, and in some cases, surgery. The choice of treatment depends on the severity of the injury and individual factors."]
+  },
+  {
+    "patterns": ["rotator cuff injury treatment at home"],
+    "responses": ["Some rotator cuff injury management can be done at home, including rest, ice application, and specific exercises recommended by a physical therapist. However, it's essential to consult with a healthcare professional for proper guidance."]
+  },
+  {
+    "patterns": ["rotator cuff injury treatment exercises"],
+    "responses": ["Rotator cuff injury treatment exercises can help strengthen the shoulder muscles and improve range of motion. These exercises should be prescribed and supervised by a physical therapist for maximum benefit."]
+  },
+  {
+    "patterns": ["rotator cuff injury types"],
+    "responses": ["There are various types of rotator cuff injuries, including tendinitis, partial tears, and full-thickness tears. The type and severity of the injury determine the recommended treatment approach."]
+  },
+  {
+    "patterns": ["rotator cuff injury taping"],
+    "responses": ["Taping techniques may be used to support the shoulder joint and provide stability during rotator cuff injury rehabilitation. Proper taping should be performed by a trained professional."]
+  },
+  {
+    "patterns": ["rotator cuff injury time to heal"],
+    "responses": ["The time it takes for a rotator cuff injury to heal can vary based on factors such as injury severity, treatment, and individual healing abilities. Recovery may take several weeks to several months."]
+  },
+  {
+    "patterns": ["rotator cuff injury test physiopedia"],
+    "responses": ["Physiopedia is a resource for physical therapy information. You can find information related to rotator cuff injury tests on Physiopedia, but it's essential to consult with healthcare professionals for accurate diagnosis and treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury test at home"],
+    "responses": ["Some rotator cuff injury tests can be performed at home, such as range-of-motion tests. However, a comprehensive diagnosis requires evaluation by a healthcare professional."]
+  },
+  {
+    "patterns": ["rotator cuff injury tests diagnosis"],
+    "responses": ["Diagnosis of rotator cuff injuries involves a combination of physical examinations, imaging studies, and special tests performed by healthcare professionals. These tests help determine the extent and nature of the injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury treatment without surgery"],
+    "responses": ["Many rotator cuff injuries can be treated without surgery through rest, physical therapy, and other conservative measures. Surgical intervention is typically considered for severe cases or when conservative treatments are ineffective."]
+  },
+  {
+    "patterns": ["rotator cuff injury treatment nhs"],
+    "responses": ["The National Health Service (NHS) in the UK offers treatment for rotator cuff injuries. If you have symptoms, you can seek evaluation and treatment through NHS services."]
+  },
+  {
+    "patterns": ["rotator cuff injury tingling fingers"],
+    "responses": ["Tingling in the fingers can be associated with a rotator cuff injury, especially if nerve compression is involved. Consult with a healthcare provider for a thorough evaluation and appropriate treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury therapy"],
+    "responses": ["Therapy for rotator cuff injuries typically includes physical therapy to strengthen muscles and improve shoulder function. Occupational therapy may also be beneficial for activities of daily living."]
+  },
+  {
+    "patterns": ["rotator cuff injury tennis"],
+    "responses": ["Tennis can place strain on the shoulder, and individuals with a rotator cuff injury should be cautious. Consult with a healthcare professional for guidance on sports participation while recovering from such an injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury ultrasound"],
+    "responses": ["Ultrasound imaging may be used to assess rotator cuff injuries and guide treatments. It is a non-invasive imaging technique that provides real-time visualization of the shoulder structures."]
+  },
+  {
+    "patterns": ["rotator cuff injury usg"],
+    "responses": ["Ultrasound (USG) imaging is a valuable tool for diagnosing and monitoring rotator cuff injuries. It helps visualize the structures within the shoulder and assess the extent of the injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury uk"],
+    "responses": ["In the UK, rotator cuff injuries are commonly treated through the National Health Service (NHS) or private healthcare providers. Seek medical evaluation and treatment through these healthcare services."]
+  },
+  {
+    "patterns": ["rotator cuff injury untreated"],
+    "responses": ["Leaving a rotator cuff injury untreated can lead to chronic pain, weakness, and limited shoulder function. It's advisable to seek medical attention and follow recommended treatments."]
+  },
+  {
+    "patterns": ["rotator cuff injury uptodate"],
+    "responses": ["UpToDate is a medical reference resource that provides information on various medical conditions, including rotator cuff injuries. You can refer to UpToDate for comprehensive information, but consult with healthcare professionals for personalized guidance."]
+  },
+  {
+    "patterns": ["rotator cuff injury uworld"],
+    "responses": ["UWorld is a popular test preparation resource for medical students. While it may have information on rotator cuff injuries, it's essential to rely on medical professionals for diagnosis and treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury usmle"],
+    "responses": ["The United States Medical Licensing Examination (USMLE) may include questions related to rotator cuff injuries. It's important for medical professionals to study these topics for their licensing exams."]
+  },
+  {
+    "patterns": ["rotator cuff injury upper arm"],
+    "responses": ["Rotator cuff injuries primarily affect the shoulder joint and muscles. If you experience symptoms in the upper arm, it could be related to the injury. Consult with a healthcare provider for evaluation."]
+  },
+  {
+    "patterns": ["rotator cuff injury uk nhs"],
+    "responses": ["The National Health Service (NHS) in the UK offers treatment for rotator cuff injuries. If you have symptoms, you can seek evaluation and treatment through NHS services."]
+  },
+  {
+    "patterns": ["rotator cuff injury unable to lift arm"],
+    "responses": ["Difficulty lifting the arm can be a symptom of a rotator cuff injury. It's important to consult with a healthcare professional for a proper diagnosis and appropriate treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury underarm pain"],
+    "responses": ["Underarm pain can be associated with a rotator cuff injury, especially if the injury affects the shoulder's muscles and tendons. Consult with a healthcare provider for evaluation and treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury ulnar nerve"],
+    "responses": ["In some cases, a rotator cuff injury may affect the ulnar nerve, leading to symptoms such as tingling or numbness in the hand and fingers. Seek medical evaluation for proper diagnosis and management."]
+  },
+  {
+    "patterns": ["rotator cuff injury ultrasound therapy"],
+    "responses": ["Ultrasound therapy is a treatment option that uses ultrasound waves to promote healing in the injured tissues of the rotator cuff. It may be recommended as part of rehabilitation."]
+  },
+  {
+    "patterns": ["rotator cuff injury upper back pain"],
+    "responses": ["Upper back pain can be associated with a rotator cuff injury, especially if it affects the shoulder and upper back muscles. A healthcare professional can evaluate and recommend appropriate treatments."]
+  },
+  {
+    "patterns": ["rotator cuff injury uss"],
+    "responses": ["USS may refer to ultrasound scans or examinations used for diagnosing and monitoring rotator cuff injuries. These scans provide valuable information for healthcare professionals."]
+  }
+,
+  {
+    "patterns": ["rotator cuff injury vs frozen shoulder"],
+    "responses": ["Rotator cuff injury and frozen shoulder (adhesive capsulitis) are distinct conditions. A rotator cuff injury involves damage to the tendons of the rotator cuff, leading to pain and limited mobility. Frozen shoulder is characterized by stiffness and pain in the shoulder joint due to inflammation and tightening of the joint capsule. They may have overlapping symptoms, but their causes and treatments differ."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs tear"],
+    "responses": ["A rotator cuff injury can involve a tear or damage to the tendons of the rotator cuff. So, a tear is a specific type of rotator cuff injury. The severity of the tear can vary, ranging from partial to full-thickness tears, and it influences the treatment approach."]
+  },
+  {
+    "patterns": ["rotator cuff injury video"],
+    "responses": ["Videos on rotator cuff injuries can provide visual information about the condition, its symptoms, and treatment options. It's important to refer to reliable sources and consult healthcare professionals for accurate guidance."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs shoulder impingement"],
+    "responses": ["Rotator cuff injury and shoulder impingement are related conditions. Shoulder impingement can lead to rotator cuff injuries. Impingement involves the compression or pinching of the rotator cuff tendons between the bones of the shoulder, which can result in injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs bursitis"],
+    "responses": ["Rotator cuff injury and shoulder bursitis are distinct conditions. Bursitis involves inflammation of the bursa sac, a fluid-filled cushion in the shoulder joint. A rotator cuff injury specifically refers to damage to the tendons of the rotator cuff."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs pinched nerve"],
+    "responses": ["A pinched nerve in the neck or shoulder region can cause symptoms similar to those of a rotator cuff injury, such as pain and weakness in the shoulder and arm. It's important to consult a healthcare professional for proper diagnosis and differentiation."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs tendonitis"],
+    "responses": ["Rotator cuff tendonitis refers to inflammation of the tendons of the rotator cuff. A rotator cuff injury can include tendonitis as one of its components. Both conditions involve tendon damage but may vary in severity."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs impingement"],
+    "responses": ["Rotator cuff injury and shoulder impingement are closely related. Impingement can lead to rotator cuff injuries as the tendons are compressed or pinched in the shoulder joint. Addressing impingement can prevent further damage."]
+  },
+  {
+    "patterns": ["rotator cuff injury va disability"],
+    "responses": ["The qualification for Veterans Affairs (VA) disability benefits due to a rotator cuff injury depends on various factors, including the severity of the injury, its impact on your daily life, and service-related considerations. It's advisable to consult with the VA or a veterans' service organization for specific guidance."]
+  },
+  {
+    "patterns": ["rotator cuff injury volleyball"],
+    "responses": ["Playing volleyball with a rotator cuff injury can be challenging and potentially exacerbate the condition. It's essential to consult with a healthcare professional and consider modifying your activities to avoid further injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs muscle strain"],
+    "responses": ["A muscle strain and a rotator cuff injury are related but distinct conditions. A rotator cuff injury specifically involves damage to the tendons of the rotator cuff, whereas a muscle strain is an injury to a muscle. Both may cause pain and limited mobility."]
+  },
+  {
+    "patterns": ["rotator cuff injury verywell"],
+    "responses": ["Verywell is a health and wellness website that provides information on various medical conditions, including rotator cuff injuries. While it can be a helpful resource, it's essential to consult healthcare professionals for accurate guidance and treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury versus arthritis"],
+    "responses": ["Rotator cuff injuries and arthritis are distinct conditions. Rotator cuff injuries involve damage to the tendons of the rotator cuff, while arthritis is inflammation and degeneration of the shoulder joint. They can coexist but are managed differently."]
+  },
+  {
+    "patterns": ["rotator cuff injury voltaren"],
+    "responses": ["Voltaren is a brand name for a nonsteroidal anti-inflammatory drug (NSAID) called diclofenac. It may be prescribed to manage pain and inflammation associated with a rotator cuff injury. Follow your healthcare provider's recommendations for its use."]
+  },
+  {
+    "patterns": ["rotator cuff injury vs soreness"],
+    "responses": ["Rotator cuff soreness can be a symptom of an underlying rotator cuff injury. It's important to differentiate between temporary soreness and a chronic injury, especially if symptoms persist or worsen."]
+  },
+  {
+    "patterns": ["rotator cuff injury wikipedia"],
+    "responses": ["Wikipedia is a collaborative online encyclopedia that may have information on various topics, including rotator cuff injuries. However, it's advisable to consult medical professionals and reputable sources for accurate medical information."]
+  },
+  {
+    "patterns": ["rotator cuff injury what to do"],
+    "responses": ["If you suspect you have a rotator cuff injury, it's important to seek medical evaluation. Initial steps may include rest, ice, and avoiding activities that worsen the symptoms. Consult with a healthcare professional for a comprehensive treatment plan."]
+  },
+  {
+    "patterns": ["rotator cuff injury while sleeping"],
+    "responses": ["Rotator cuff injuries can be aggravated while sleeping if you adopt positions that place pressure on the shoulder. Using pillows to support the arm and finding a comfortable sleeping position may help reduce discomfort."]
+  },
+  {
+    "patterns": ["rotator cuff injury workout"],
+    "responses": ["Exercising with a rotator cuff injury should be done cautiously and under the guidance of a physical therapist. They can recommend safe exercises that promote healing and strengthen the shoulder muscles."]
+  },
+  {
+    "patterns": ["rotator cuff injury what to avoid"],
+    "responses": ["To avoid aggravating a rotator cuff injury, it's advisable to avoid activities that involve overhead motions, heavy lifting, or repetitive shoulder movements. Consult with a healthcare professional for specific guidance."]
+  },
+  {
+    "patterns": ["rotator cuff injury who to see"],
+    "responses": ["If you suspect a rotator cuff injury, you should initially see a healthcare provider, such as a primary care physician or orthopedic specialist. They can diagnose the condition and recommend further evaluation or treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury weightlifting"],
+    "responses": ["Weightlifting with a rotator cuff injury should be approached with caution and under the guidance of a healthcare professional. Specific exercises and modifications may be recommended to avoid exacerbating the injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury what is it"],
+    "responses": ["A rotator cuff injury refers to damage or tears in the tendons of the rotator cuff, a group of muscles and tendons that stabilize the shoulder joint. It can result in pain, weakness, and limited range of motion in the shoulder."]
+  },
+  {
+    "patterns": ["rotator cuff injury wrist pain"],
+    "responses": ["Wrist pain may be related to a rotator cuff injury if there is referred pain or compensatory movements due to shoulder discomfort. Consult with a healthcare provider to determine the exact cause of wrist pain."]
+  },
+  {
+    "patterns": ["rotator cuff injury where does it hurt"],
+    "responses": ["The location of pain in a rotator cuff injury can vary but is typically felt in the shoulder region. Pain may also radiate down the arm. The specific location of pain can depend on the nature and location of the injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury worse at night"],
+    "responses": ["Rotator cuff pain can sometimes worsen at night, especially when lying on the affected shoulder. Using pillows to support the arm and finding a comfortable sleeping position may help alleviate nighttime discomfort."]
+  },
+  {
+    "patterns": ["rotator cuff injury whiplash"],
+    "responses": ["Whiplash typically refers to neck injuries resulting from sudden acceleration or deceleration forces. While it primarily affects the neck, it can also lead to shoulder and rotator cuff discomfort. Consult a healthcare provider for evaluation and treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury weight training"],
+    "responses": ["Weight training with a rotator cuff injury should be approached cautiously. Consult with a physical therapist or healthcare professional for guidance on safe and effective weight training exercises that do not exacerbate the injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury when to see a doctor"],
+    "responses": ["If you suspect you have a rotator cuff injury or experience persistent shoulder pain, weakness, or limited range of motion, it's advisable to see a doctor or healthcare provider for evaluation and guidance on when to seek treatment."]
+  },
+  {
+    "patterns": ["rotator cuff injury weakness"],
+    "responses": ["Weakness in the shoulder can be a symptom of a rotator cuff injury, particularly when the tendons are damaged or torn. Physical therapy and exercises can help improve strength and function during the recovery process."]
+  },
+  {
+    "patterns": ["rotator cuff injury x ray"],
+    "responses": ["X-rays are typically not effective for diagnosing rotator cuff injuries, as they primarily show bone structures. To assess a rotator cuff injury, healthcare providers often use imaging techniques such as MRI or ultrasound for a more detailed view of the soft tissues."]
+  },
+  {
+    "patterns": ["rotator cuff injury x ray findings"],
+    "responses": ["X-ray findings are not typically used to diagnose rotator cuff injuries, as they do not provide a detailed view of the soft tissues involved. Healthcare professionals often rely on other imaging methods like MRI or ultrasound for accurate diagnosis."]
+  },
+  {
+    "patterns": ["rotator cuff tear x ray"],
+    "responses": ["X-rays are not suitable for directly visualizing rotator cuff tears, as they primarily show bones. To diagnose a rotator cuff tear, healthcare providers commonly use MRI or ultrasound imaging, which provide detailed views of the soft tissues."]
+  },
+  {
+    "patterns": ["rotator cuff tear x ray vs normal"],
+    "responses": ["X-ray images alone may not distinguish between a normal shoulder and one with a rotator cuff tear, as X-rays primarily visualize bones. To diagnose a rotator cuff tear, healthcare providers often use other imaging methods like MRI or ultrasound."]
+  },
+  {
+    "patterns": ["rotator cuff tear x ray findings"],
+    "responses": ["X-ray findings are not typically used to identify rotator cuff tear, as X-rays primarily show bones. Diagnosis of a rotator cuff tear usually relies on MRI or ultrasound imaging for a detailed view of the soft tissues."]
+  },
+  {
+    "patterns": ["rotator cuff tear x ray or MRI"],
+    "responses": ["For diagnosing a rotator cuff tear, MRI or ultrasound imaging is more effective than X-rays. These methods provide detailed views of the soft tissues, allowing healthcare providers to assess the extent and location of the tear."]
+  },
+  {
+    "patterns": ["rotator cuff tendinitis x ray"],
+    "responses": ["X-rays are not typically used to diagnose rotator cuff tendinitis, as they primarily show bones. The diagnosis of rotator cuff tendinitis is usually based on clinical evaluation and may be confirmed using imaging techniques like MRI or ultrasound."]
+  },
+  {
+    "patterns": ["rotator cuff injury athlean x"],
+    "responses": ["Athlean-X is a popular fitness program and YouTube channel. While it may provide exercise and fitness advice, it's essential to consult a healthcare professional or physical therapist for guidance on managing a rotator cuff injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury shoulder x ray"],
+    "responses": ["X-rays of the shoulder may not effectively diagnose rotator cuff injuries, as they primarily visualize bones. Healthcare providers often use other imaging methods like MRI or ultrasound for a more accurate assessment of soft tissue injuries."]
+  },
+  {
+    "patterns": ["torn rotator cuff tear x ray"],
+    "responses": ["X-rays alone may not diagnose a torn rotator cuff tear, as they primarily show bones. To evaluate a rotator cuff tear, healthcare providers typically use MRI or ultrasound imaging, which provide detailed views of the soft tissues."]
+  },
+  {
+    "patterns": ["shoulder rotator cuff tear x ray"],
+    "responses": ["X-ray images may not effectively diagnose shoulder rotator cuff tears, as they primarily show bones. To assess a rotator cuff tear, healthcare providers often use imaging methods like MRI or ultrasound for a detailed view of the soft tissues."]
+  },
+  {
+    "patterns": ["chronic rotator cuff tear x ray"],
+    "responses": ["X-ray images alone may not diagnose chronic rotator cuff tears, as they primarily show bones. For an accurate assessment of chronic tears, healthcare providers typically use MRI or ultrasound imaging, which provide detailed views of soft tissues."]
+  },
+  {
+    "patterns": ["normal rotator cuff tear x ray"],
+    "responses": ["X-rays may not distinguish between a normal shoulder and one with a rotator cuff tear, as they primarily show bones. Diagnosis of a rotator cuff tear usually relies on MRI or ultrasound imaging for a detailed view of the soft tissues."]
+  },
+  {
+    "patterns": ["rotator cuff tear shoulder xray"],
+    "responses": ["X-ray images alone may not diagnose a rotator cuff tear in the shoulder, as they primarily show bones. To assess a rotator cuff tear, healthcare providers typically use imaging methods like MRI or ultrasound for a detailed view of the soft tissues."]
+  },
+  {
+    "patterns": ["rotator cuff injury yoga"],
+    "responses": ["Yoga can be beneficial for individuals with a rotator cuff injury, but it should be done under the guidance of a qualified yoga instructor who can provide modified poses to avoid exacerbating the injury."]
+  },
+  {
+    "patterns": ["rotator cuff injury youtube"],
+    "responses": ["YouTube may have videos related to rotator cuff injuries, including exercises and informational content. However, it's essential to verify the reliability of the source and consider consulting healthcare professionals for accurate guidance."]
+  },
+  {
+    "patterns": ["rotator cuff injury yoga poses to avoid"],
+    "responses": ["While yoga can be helpful for rotator cuff injury rehabilitation, certain poses should be avoided to prevent strain or aggravation of the injury. Consult with a qualified yoga instructor for guidance on safe practices."]
+  },
+  {
+    "patterns": ["rotator cuff injury young athletes"],
+    "responses": ["Young athletes can be at risk for rotator cuff injuries, especially if they engage in sports involving repetitive overhead motions. Proper training, warm-up, and conditioning are essential to reduce the risk of such injuries."]
+  },
+  {
+    "patterns": ["rotator cuff injury years later"],
+    "responses": ["Rotator cuff injuries can have long-term effects, and symptoms may persist or resurface years later. Proper rehabilitation and follow-up care are important to manage any recurring symptoms."]
+  },
+  {
+    "patterns": ["rotator cuff injury young"],
+    "responses": ["Rotator cuff injuries can affect individuals of all ages, including young adults and athletes. Prompt diagnosis and appropriate treatment can help young individuals recover and maintain shoulder function."]
+  },
+  {
+    "patterns": ["rotator cuff tear yoga"],
+    "responses": ["Yoga can be beneficial for individuals with a rotator cuff tear, but it should be done under the guidance of a qualified yoga instructor who can provide modified poses to accommodate the injury."]
+  },
+  {
+    "patterns": ["rotator cuff tendonitis youtube"],
+    "responses": ["YouTube may have videos related to exercises and stretches for rotator cuff tendonitis. However, it's important to consult with a healthcare provider or physical therapist for personalized guidance."]
+  },
+  {
+    "patterns": ["rotator cuff rehab youtube"],
+    "responses": ["YouTube may feature videos on rotator cuff rehabilitation exercises. While these videos can provide general guidance, it's important to consult with a physical therapist for an individualized and safe rehabilitation plan."]
+  },
+  {
+    "patterns": ["rotator cuff tendonitis yoga"],
+    "responses": ["Yoga can be helpful for individuals with rotator cuff tendonitis, but it should be practiced under the guidance of a qualified yoga instructor who can provide modified poses to accommodate the injury."]
+  },
+  {
+    "patterns": ["rotator cuff tear years"],
+    "responses": ["Rotator cuff tears, if left untreated or if the injury is severe, can lead to long-term symptoms that persist for years. Early diagnosis and appropriate treatment can improve outcomes."]
+  },
+  {
+    "patterns": ["rotator cuff injury test youtube"],
+    "responses": ["YouTube may have videos demonstrating tests and assessments for rotator cuff injuries. However, it's important to consult with a healthcare professional for accurate diagnosis and testing."]
+  },
+  {
+    "patterns": ["rotator cuff injury exercises youtube"],
+    "responses": ["YouTube may offer videos featuring exercises and stretches for rotator cuff injuries. While these can be informative, it's crucial to consult with a physical therapist for a personalized and safe exercise program."]
+  },
+  {
+    "patterns": ["rotator cuff injury hurts years later"],
+    "responses": ["Rotator cuff injuries can have long-lasting effects, and pain or discomfort may persist or resurface years after the initial injury. It's advisable to seek medical evaluation and appropriate care if symptoms persist."]
+  },
+  {
+    "patterns": ["rotator cuff tear do you need surgery"],
+    "responses": ["The need for surgery in cases of rotator cuff tears depends on various factors, including the size and location of the tear, the individual's age, and the severity of symptoms. Smaller tears may be managed conservatively with physical therapy, while larger tears may require surgical repair. Consult with a healthcare provider for personalized recommendations."]
+  },
+  {
+    "patterns": ["rotator cuff injury zero to finals"],
+    "responses": ["Zero to Finals is a medical education platform. While it may provide information on medical topics, it's important to rely on medical professionals for accurate guidance and management of rotator cuff injuries."]
+  },
+  {
+    "patterns": ["rotator cuff tear critical zone"],
+    "responses": ["The critical zone of the rotator cuff refers to the area where blood supply is limited, making it less prone to natural healing. Tears in this zone may require surgical intervention to promote proper healing."]
+  },
+  {
+    "patterns": ["rotator cuff injury how to fix"],
+    "responses": ["The treatment approach for fixing a rotator cuff injury depends on the type and severity of the injury. It may involve rest, physical therapy, exercises, anti-inflammatory medications, or, in some cases, surgical repair. Consult with a healthcare professional for a personalized plan."]
+  },
+  {
+    "patterns": ["what happens if rotator cuff is torn"],
+    "responses": ["If the rotator cuff is torn, it can lead to pain, weakness, and limited range of motion in the shoulder. In some cases, a torn rotator cuff may require surgical repair to regain proper function."]
+  },
+  {
+    "patterns": ["how to know rotator cuff is torn"],
+    "responses": ["A torn rotator cuff can be diagnosed through a combination of physical examination, imaging tests (such as MRI or ultrasound), and assessment of symptoms like pain, weakness, and limited shoulder mobility. Consult with a healthcare provider for an accurate diagnosis."]
+  },
+  {
+    "patterns": ["how to diagnose rotator cuff injury"],
+    "responses": ["The diagnosis of a rotator cuff injury typically involves a physical examination by a healthcare provider, imaging tests (such as MRI or ultrasound) to visualize the shoulder, and a discussion of symptoms. It's important to consult with a medical professional for an accurate diagnosis."]
+  },
+  {
+    "patterns": ["rotator cuff injury when to see a doctor"],
+    "responses": ["If you suspect you have a rotator cuff injury or experience persistent shoulder pain, weakness, or limited range of motion, it's advisable to see a doctor or healthcare provider for evaluation and guidance on when to seek treatment."]
+  }
+,
     {
       "patterns": [
         "hey",
