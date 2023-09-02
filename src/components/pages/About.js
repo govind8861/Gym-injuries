@@ -35,8 +35,8 @@ function About() {
           </div>
           <div className="col-md-6">
             <img
-              src="https://www.muscleandfitness.com/wp-content/uploads/2023/07/onclockinjury514.jpg?quality=86&strip=all" // Replace with your actual image URL
-              alt="App Image"
+              src="https://www.muscleandfitness.com/wp-content/uploads/2023/07/onclockinjury514.jpg?quality=86&strip=all" 
+              alt="App "
               className="img-fluid about-image mb-3"
             />
           </div>
