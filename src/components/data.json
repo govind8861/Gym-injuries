@@ -8380,41 +8380,565 @@
                 "patterns": ["Discuss the use of imaging techniques like MRI in diagnosing muscle tears."],
                 "responses": ["MRI (Magnetic Resonance Imaging) is a valuable tool for diagnosing muscle tears. It provides detailed images of soft tissues, allowing healthcare providers to assess the extent and location of muscle injuries."]
               }
-                        
-          
-          
-        
-        
-            
-                  
-                
-                
-                            
-                        
-                    
-                
-            
-        
-    
-             
-                         
-                                  
-                    
-                
-                  
-        
+  ,
+    {
+      "patterns": ["are spasms and cramps the same", "are spasms and cramps the same thing"],
+      "responses": [
+        "Spasms and cramps are not the same thing. Spasms are involuntary muscle contractions that can be brief or prolonged, while cramps are painful muscle contractions that often result from muscle fatigue or overuse."
+      ]
+    },
+    {
+      "patterns": ["are spasms normal","are spasm normal"],
+      "responses": [
+        "Spasms can be normal in some situations, such as muscle twitches or occasional muscle contractions. However, frequent or severe spasms may indicate an underlying issue and should be evaluated by a healthcare professional."
+      ]
+    },
+    {
+      "patterns": ["are spasms painful"],
+      "responses": [
+        "Spasms can vary in pain intensity. Some may be mildly uncomfortable, while others can be quite painful. The level of pain often depends on the underlying cause and severity of the spasm."
+      ]
+    },
+    {
+      "patterns": ["are spasms normal in babies"],
+      "responses": [
+        "Spasms in babies can sometimes be normal, such as when they experience muscle twitches or startle reflexes. However, if you notice persistent or unusual spasms in a baby, it's essential to consult a pediatrician for evaluation."
+      ]
+    },
+    {
+      "patterns": ["are spasms normal during pregnancy"],
+      "responses": [
+        "Muscle spasms can occur during pregnancy, but they should not be ignored. It's important to stay hydrated, maintain proper nutrition, and consult a healthcare provider if you experience frequent or severe spasms during pregnancy."
+      ]
+    },
+    {
+      "patterns": ["are spasms dangerous"],
+      "responses": [
+        "The danger of spasms depends on their underlying cause and severity. While some spasms may not be dangerous, others can be a sign of an underlying medical condition or nerve problem. It's advisable to seek medical evaluation if you have concerns about spasms."
+      ]
+    },
+    {
+      "patterns": ["are spasms a sign of healing"],
+      "responses": [
+        "Spasms are not typically a direct sign of healing. However, they can occur as part of the body's natural response to injury or recovery. If you experience spasms during healing, it's essential to follow your healthcare provider's guidance."
+      ]
+    },
+    {
+      "patterns": ["are spasms seizures", "are spasms the same as seizures"],
+      "responses": [
+        "Spasms and seizures are not the same, although both involve abnormal muscle activity. Spasms are often isolated muscle contractions, while seizures involve abnormal electrical activity in the brain and can manifest as muscle spasms among other symptoms."
+      ]
+    },
+    {
+      "patterns": ["are spasms serious"],
+      "responses": [
+        "The seriousness of spasms depends on their underlying cause. Some spasms may not be serious and can resolve on their own, while others may indicate an underlying medical condition or injury that requires medical attention."
+      ]
+    },
+    {
+      "patterns": ["are spasms neurological"],
+      "responses": [
+        "Spasms can be neurological in nature, especially if they result from issues with the nervous system or nerve damage. Neurological spasms may require evaluation by a neurologist to determine the underlying cause."
+      ]
+    },
+    {
+      "patterns": ["can spasms cause nerve damage"],
+      "responses": [
+        "Spasms themselves do not typically cause nerve damage. However, they can be a symptom of an underlying condition or injury that may lead to nerve damage if left untreated. Seeking medical evaluation is important."
+      ]
+    },
+    {
+      "patterns": ["can spasms kill you"],
+      "responses": [
+        "Spasms alone are not typically life-threatening. However, the underlying cause of severe or persistent spasms may be a serious medical condition that requires immediate medical attention. It's essential to address the underlying issue."
+      ]
+    },
+    {
+      "patterns": ["can spasms last for days"],
+      "responses": [
+        "Spasms can persist for extended periods, including days, depending on their cause. Prolonged or severe spasms should be evaluated by a healthcare professional to identify the underlying issue and determine appropriate treatment."
+      ]
+    },
+    {
+      "patterns": ["can spasms cause headaches"],
+      "responses": [
+        "Spasms themselves may not directly cause headaches, but they can be associated with underlying conditions that may lead to headaches. If you experience spasms and headaches, it's advisable to consult a healthcare provider for assessment."
+      ]
+    },
+    {
+      "patterns": ["can spasms last for months"],
+      "responses": [
+        "Spasms lasting for months are not typical and may indicate an underlying medical issue that requires evaluation and treatment. Chronic spasms should be discussed with a healthcare provider."
+      ]
+    },
+    {
+      "patterns": ["can infantile spasms be cured"],
+      "responses": [
+        "Infantile spasms, a specific type of seizure disorder, can be challenging to treat, but with early intervention and appropriate medical management, some children can achieve remission. It's crucial to work closely with pediatricians and specialists for the best outcome."
+      ]
+    },
+    {
+      "patterns": ["can muscle spasms cause anxiety"],
+      "responses": [
+        "Muscle spasms themselves may not directly cause anxiety, but chronic pain or discomfort from spasms can contribute to feelings of anxiety. Managing the underlying cause of spasms may help alleviate anxiety symptoms."
+      ]
+    },
+    {
+      "patterns": ["how bad can muscle spasms get"],
+      "responses": [
+        "The severity of muscle spasms can vary widely. While some spasms may be mild and barely noticeable, others can be extremely painful and disruptive. The intensity often depends on the underlying cause and individual factors."
+      ]
+    },
+    {
+      "patterns": ["how do you get spasms"],
+      "responses": [
+        "Spasms can occur for various reasons, including muscle fatigue, dehydration, electrolyte imbalances, overuse of muscles, nerve issues, and underlying medical conditions. Identifying the specific cause is essential for proper treatment."
+      ]
+    },
+    {
+      "patterns": ["are spasms normal"],
+      "responses": [
+        "Spasms can be normal in some situations, such as muscle twitches or occasional muscle contractions. However, frequent or severe spasms may indicate an underlying issue and should be evaluated by a healthcare professional."
+      ]
+    },
+      {
+        "patterns": ["how stomach spasms"],
+        "responses": ["Stomach spasms can occur due to various reasons, including digestive issues, muscle contractions, or gastrointestinal problems. If you experience frequent or severe stomach spasms, it's advisable to consult a healthcare professional for evaluation."]
+      },
+      {
+        "patterns": ["how stop muscle spasms"],
+        "responses": ["To stop muscle spasms, you can try gentle stretching, massaging the affected muscle, applying heat or cold, and ensuring proper hydration. If spasms persist or are severe, it's essential to seek guidance from a healthcare provider."]
+      },
+      {
+        "patterns": ["how are muscle spasms caused", "how are back spasms caused"],
+        "responses": ["Muscle spasms can be caused by various factors, including muscle fatigue, dehydration, electrolyte imbalances, overuse of muscles, nerve issues, and underlying medical conditions. Back spasms often result from muscle strain or injury."]
+      },
+      {
+        "patterns": ["how do spasms happen"],
+        "responses": ["Spasms occur when there is an abnormal and involuntary contraction of a muscle or muscle group. They can happen due to a variety of triggers, including muscle fatigue, nerve issues, dehydration, or underlying medical conditions."]
+      },
+      {
+        "patterns": ["how long do spasms last"],
+        "responses": ["The duration of spasms can vary widely depending on the cause and severity. Spasms can be brief, lasting seconds, or they can persist for minutes or even longer. Chronic spasms may last for extended periods and require medical attention."]
+      },
+      {
+        "patterns": ["are spasms painful"],
+        "responses": ["Spasms can vary in pain intensity. Some may be mildly uncomfortable, while others can be quite painful. The level of pain often depends on the underlying cause and severity of the spasm."]
+      },
+      {
+        "patterns": ["how do you get spasms"],
+        "responses": ["Spasms can occur due to various reasons, such as muscle fatigue, dehydration, electrolyte imbalances, overuse of muscles, nerve issues, or underlying medical conditions. Identifying the specific cause is crucial for appropriate treatment."]
+      },
+      {
+        "patterns": ["what are spasms like", "what spasms mean", "what spasms feel like"],
+        "responses": ["Spasms can feel like sudden, involuntary muscle contractions. They may be described as a sudden tightening or cramping sensation in the affected muscle. The sensation can range from mild discomfort to severe pain."]
+      },
+      {
+        "patterns": ["what causes spasms in the back"],
+        "responses": ["Spasms in the back can be caused by muscle strain, overuse, poor posture, injury, or underlying medical conditions affecting the spine or nerves. A healthcare provider can help determine the specific cause."]
+      },
+      {
+        "patterns": ["what's infantile spasms"],
+        "responses": ["Infantile spasms are a specific type of seizure disorder that typically occurs in infants. They involve brief, sudden muscle contractions or jerking movements and can be a sign of an underlying neurological condition. Early diagnosis and treatment are essential."]
+      },
+      {
+        "patterns": ["what are spasms in the stomach"],
+        "responses": ["Spasms in the stomach can be caused by various factors, including digestive issues, muscle contractions, or gastrointestinal problems. They may manifest as cramping or discomfort in the abdominal area."]
+      },
+      {
+        "patterns": ["what's muscle spasms"],
+        "responses": ["Muscle spasms are sudden, involuntary contractions of one or more muscles. They can vary in intensity and may be triggered by factors like muscle fatigue, dehydration, or underlying medical conditions."]
+      },
+      {
+        "patterns": ["what are spasms in the neck"],
+        "responses": ["Spasms in the neck can result from muscle tension, strain, or injury. They may cause discomfort, stiffness, or restricted neck movement. Identifying the underlying cause is important for appropriate treatment."]
+      },
+      {
+        "patterns": ["what causes muscle spasms"],
+        "responses": ["Muscle spasms can be caused by various factors, including muscle fatigue, dehydration, electrolyte imbalances, overuse of muscles, nerve issues, or underlying medical conditions. Identifying the specific cause is essential for proper management."]
+      },
+      {
+        "patterns": ["what are bladder spasms"],
+        "responses": ["Bladder spasms are involuntary contractions of the bladder muscles. They can cause a sudden urge to urinate, frequent urination, or discomfort. Bladder spasms may be associated with urinary tract issues and require medical evaluation."]
+      },
+      {
+        "patterns": ["what are colon spasms"],
+        "responses": ["Colon spasms refer to abnormal contractions of the colon (large intestine). They can result from digestive issues, irritable bowel syndrome (IBS), or other gastrointestinal conditions. Medical assessment may be needed for diagnosis and management."]
+      },
+      {
+        "patterns": ["what are esophageal spasms"],
+        "responses": ["Esophageal spasms are involuntary contractions of the esophagus, which can cause chest pain, difficulty swallowing, and discomfort. They may be related to gastrointestinal disorders and should be evaluated by a healthcare provider."]
+      },
+      {
+        "patterns": ["what is bronchial spasms"],
+        "responses": ["Bronchial spasms are contractions of the smooth muscles in the bronchial tubes (airways). They can lead to difficulty breathing, coughing, and wheezing. Bronchial spasms are often associated with asthma and require medical management."]
+      },
+      
+        {
+          "patterns": ["when do back spasms occur", "when do bladder spasms occur", "when does a muscle spasm occur", "when does the esophagus spasm"],
+          "responses": ["The timing of spasms can vary depending on the underlying cause. Back spasms can occur due to muscle strain or injury. Bladder spasms may occur in response to irritation or infection. Muscle spasms can happen due to various factors, including fatigue or dehydration. Esophageal spasms may be related to digestive issues."]
+        },
+        {
+          "patterns": ["what are spasms a sign of"],
+          "responses": ["Spasms can be a sign of various underlying issues, including muscle fatigue, dehydration, electrolyte imbalances, nerve problems, or medical conditions. Identifying the specific cause is important for appropriate treatment."]
+        },
+        {
+          "patterns": ["why do spasms happen", "why spasms happen"],
+          "responses": ["Spasms can occur for several reasons, including muscle fatigue, overuse, dehydration, electrolyte imbalances, nerve issues, or underlying medical conditions. The exact cause may vary depending on the type of spasm."]
+        },
+        {
+          "patterns": ["what does a spasm feel like", "what spasm feels like"],
+          "responses": ["Spasms can feel like sudden, involuntary muscle contractions. They may be described as a sudden tightening or cramping sensation in the affected muscle. The sensation can range from mild discomfort to severe pain."]
+        },
+        {
+          "patterns": ["how long do spasms last", "how long do spasms last"],
+          "responses": ["The duration of spasms can vary widely depending on the cause and severity. Spasms can be brief, lasting seconds, or they can persist for minutes or even longer. Chronic spasms may last for extended periods and require medical attention."]
+        },
+        {
+          "patterns": ["where do muscle spasms occur", "where do spasms come from", "where do muscle spasms come from"],
+          "responses": ["Muscle spasms can occur in various parts of the body, including the legs, arms, back, neck, abdomen, and more. The specific location may depend on the underlying cause and type of spasm."]
+        },
+        {
+          "patterns": ["what stops spasms", "what stops muscle spasms"],
+          "responses": ["To stop spasms, you can try gentle stretching, massaging the affected muscle, applying heat or cold, and ensuring proper hydration. Medications or medical treatments may be necessary for severe or chronic spasms."]
+        },
+        {
+          "patterns": ["who treats muscle spasms"],
+          "responses": ["Muscle spasms can be evaluated and treated by various healthcare professionals, including primary care physicians, orthopedic specialists, neurologists, and physical therapists. The choice of healthcare provider depends on the underlying cause and severity of the spasms."]
+        },
+        {
+          "patterns": ["what are muscle spasms caused by", "how do spasms happen"],
+          "responses": ["Muscle spasms can be caused by various factors, including muscle fatigue, dehydration, electrolyte imbalances, overuse of muscles, nerve issues, or underlying medical conditions. Identifying the specific cause is essential for proper management."]
+        },
+        {
+          "patterns": ["is spasm curable"],
+          "responses": ["The curability of spasms depends on the underlying cause. Some spasms may resolve on their own with proper care, while others may require treatment of the root cause or management of symptoms. Consultation with a healthcare provider is recommended."]
+        },
+ 
+  {
+    "patterns": ["why do spasms occur", "why do spasms happen", "why do spasms in back occur", "why do spasms in legs occur", "why do spasms in stomach occur", "why do muscle spasms occur", "why do bladder spasms occur", "why do colon spasms occur", "why do neck spasms occur", "why do muscle spasms happen", "why do I keep getting spasms", "why do I spasm randomly", "why does spasm occur", "why does muscle spasm happen"],
+    "responses": ["Spasms can occur for various reasons, including muscle fatigue, overuse, dehydration, electrolyte imbalances, nerve issues, or underlying medical conditions. The specific cause of spasms may vary depending on the affected area of the body and individual factors."]
+  },
+  {
+    "patterns": ["will spas syrup", "how does spasm happen", "is spasm curable"],
+    "responses": ["I'm not familiar with a product called 'spas syrup.' Spasms can have various causes, and their curability depends on the underlying issue. It's essential to consult with a healthcare provider for proper evaluation and treatment of spasms."]
+  },
   
-            
-        
+    {
+      "patterns": ["spasms and cramps", "spasms and cramps in legs", "spasms and convulsions difference", "spasms cramps and bloating"],
+      "responses": ["Spasms and cramps are both involuntary muscle contractions, but they can have different characteristics and causes. Spasms are sudden, brief, and often intense muscle contractions, while cramps are prolonged, painful muscle contractions. Cramps can result from muscle fatigue, dehydration, electrolyte imbalances, or other factors."]
+    },
+    {
+      "patterns": ["spasms all over body"],
+      "responses": ["Experiencing spasms all over the body can be a concerning symptom that may indicate underlying issues. It's essential to consult a healthcare provider to determine the cause and receive appropriate evaluation and treatment."]
+    },
+    {
+      "patterns": ["spasms and seizures"],
+      "responses": ["Spasms and seizures are distinct neurological events. Spasms are sudden muscle contractions, while seizures involve abnormal electrical activity in the brain. Both require medical evaluation, but they are different conditions with different treatments."]
+    },
+    {
+      "patterns": ["spasms after stent placement", "spasms after surgery", "spasms after stroke", "spasms after knee replacement", "spasms after eating", "spasms after gallbladder removal", "spasms after c section", "spasms after hip replacement"],
+      "responses": ["Experiencing spasms after various medical procedures or surgery can have multiple causes. It's important to consult with your healthcare provider to determine the specific cause and receive appropriate care or intervention."]
+    },
+    {
+      "patterns": ["spasms around rib cage", "spasms behind knee", "spasms between shoulder blades", "spasms back", "spasms behind ear", "spasms below belly button", "spasms before death", "spasms baby", "spasms below sternum", "spasms back of head", "spasms bladder", "spasms below rib cage", "spasms bottom of foot", "spasms before period", "spasms behind eye", "spasms between ribs"],
+      "responses": ["Spasms in various parts of the body can occur due to different causes. Consulting with a healthcare provider is recommended to identify the underlying issue and determine the appropriate course of action."]
+    },
+    {
+      "patterns": ["spasms causes", "spasms can cause wheezing", "spasms colon", "spasms chest", "spasms caused by anxiety", "spasms coughing", "spasms calf muscle", "spasms caused by nerve damage", "spasms crossword", "spasms catheter", "spasms cancer"],
+      "responses": ["Spasms can have numerous potential causes, including muscle fatigue, dehydration, electrolyte imbalances, nerve issues, anxiety, or underlying medical conditions. Identifying the specific cause is crucial for effective treatment."]
+    },
+    {
+      "patterns": ["spasms during period", "spasms during pregnancy", "spasms due to dehydration", "spasms def", "spasms diaphragm", "spasms during meditation", "spasms disease", "spasms during panic attack", "spasms dehydration", "spasms down left side", "spasms due to anxiety", "spasms during early pregnancy", "spasms down leg", "spasms during night"],
+      "responses": ["Experiencing spasms during various situations or conditions can be attributed to different factors. It's advisable to consult a healthcare provider to determine the cause and receive appropriate guidance or treatment."]
+    },
     
+      {
+        "patterns": ["spasms en español"],
+        "responses": ["Los espasmos son contracciones musculares involuntarias y pueden tener diversas causas y síntomas. Si tienes preguntas específicas, no dudes en hacerlas."]
+      },
+      {
+        "patterns": ["spasms esophagus", "spasms early pregnancy", "spasms end of life", "spasms eyelid", "spasms eye", "spasms electrolytes", "spasms everywhere", "spasms epilepsy", "spasm eye muscle", "spasm ear drum", "spasms film"],
+        "responses": ["Los espasmos pueden afectar diversas partes del cuerpo y pueden estar relacionados con diferentes situaciones o condiciones. Es importante buscar atención médica si tienes preocupaciones sobre espasmos específicos."]
+      },
+      {
+        "patterns": ["spasms feel like", "spasms from anxiety", "spasms from dehydration", "spasms fingers", "spasms fibromyalgia", "spasms from sciatica", "spasms from catheter", "spasms foot", "spasms from uti", "spasms face", "spasms from stress", "spasms fingers and toes", "spasms feet", "spasms from hemorrhoids"],
+        "responses": ["Los espasmos pueden sentirse de diversas maneras y tener múltiples causas. Si experimentas espasmos recurrentes o preocupantes, consulta a un profesional de la salud para obtener orientación y evaluación adecuadas."]
+      },
+      {
+        "patterns": ["spasms gif"],
+        "responses": ["Lo siento, no puedo mostrar imágenes o gifs, pero puedo proporcionar información sobre espasmos si lo deseas."]
+      },
+      {
+        "patterns": ["spasms gerd", "spasms gallbladder", "spasms & gabapentin", "spasms get rid", "spasms gastric", "spasms gas stomach", "gut spasms", "groin spasms female", "groin spasms", "gastritis spasms", "glute spasms", "groin spasms male", "glute spasms at night", "spasm grades"],
+        "responses": ["Los espasmos pueden estar relacionados con afecciones médicas específicas. Si tienes preguntas sobre espasmos y tu salud, te recomiendo hablar con un profesional médico para obtener asesoramiento adecuado."]
+      },
+      {
+        "patterns": ["spasms how to pronounce"],
+        "responses": ["La pronunciación de 'spasms' se realiza como /spazms/."]
+      },
+      {
+        "patterns": ["spasms hands", "spasms heart", "spasms hands and feet", "spasms head", "spasms hip", "spasms headaches symptoms", "spasms how to treat", "hemifacial spasms", "head spasms symptoms", "heart spasms causes", "head spasms left side", "spasm headache", "hip spasms at night", "hernia spasms"],
+        "responses": ["Los espasmos pueden afectar diversas partes del cuerpo y pueden estar relacionados con diferentes condiciones médicas. Si experimentas espasmos inusuales o preocupantes, busca la opinión de un profesional médico."]
+      },
+      {
+        "patterns": ["spasms in stomach", "spasms in body", "spasms in babies", "spasms in hindi", "spasms in the throat", "spasms in back", "spasms in muscles", "spasms icd 10", "spasms in tamil", "spasms in chest", "spasms in neck", "spasms in infants", "spasms in anus", "spasms in legs at night", "spasms in feet"],
+        "responses": ["Los espasmos pueden afectar diversas áreas del cuerpo y pueden ser causados por diferentes factores. Si tienes inquietudes sobre espasmos específicos, te recomiendo que hables con un profesional de la salud para obtener una evaluación adecuada."]
+      },
+      
+        {
+          "patterns": ["spasms just under rib cage"],
+          "responses": ["Spasms just under the rib cage can be caused by various factors, including muscle cramps, digestive issues, or even anxiety. If you experience persistent or concerning spasms, it's advisable to consult a healthcare professional for evaluation."]
+        },
+        {
+          "patterns": ["spasms jaw", "spasms in", "spasms jerks", "spasms jaw clenching", "spasms joints", "spasms jerky movements", "jaw spasms anxiety", "jaw spasms treatment", "jaw spasms in dogs", "jaw spasms at night", "jaw spasms when eating", "jaw spasms while falling asleep", "jaw spasms when sleeping"],
+          "responses": ["Spasms in the jaw can be caused by various factors, including stress, dental issues, or neurological conditions. Treatment may depend on the underlying cause, and it's best to consult a dentist or healthcare professional for evaluation and guidance."]
+        },
+        {
+          "patterns": ["joint spasms causes", "spasms kidney area", "spasms kidney stones", "spasms kidney", "spasms knee", "what causes leg cramp spasms", "what is cramp and spasm", "difference between twitching and spasms", "what causes muscle cramps and spasms"],
+          "responses": ["Joint spasms and spasms in various body areas can have different causes, including muscle fatigue, dehydration, nerve issues, or underlying medical conditions. If you experience persistent or severe spasms, consider consulting a healthcare provider for a proper diagnosis and treatment plan."]
+        },
+        {
+          "patterns": ["spasms lower abdomen", "spasms lower left abdomen", "spasms lower back", "spasms left side of abdomen", "spasms left side of chest", "spasms left side of body", "spasms left side", "spasms lower left back", "spasms legs", "spasms lower right back", "spasms left arm", "spasms lower stomach", "spasms left side of stomach", "spasms left side of head", "spasms left side of neck"],
+          "responses": ["Spasms in the lower abdomen and other areas can be due to a variety of reasons, including muscle cramps, digestive discomfort, or neurological issues. If you have concerns about specific spasms, it's recommended to consult a healthcare professional for assessment."]
+        },
+        {
+          "patterns": ["spasms meaning", "spasms meaning in tamil", "spasms meaning in telugu", "spasms meaning in bengali", "spasms meaning in hindi", "spasms meaning in marathi", "spasms meaning in english", "spasms meaning in malayalam", "spasms meaning in kannada", "spasms meaning in punjabi", "spasms meaning in urdu", "spasms meaning in gujarati", "spasms muscle", "spasms meaning in nepali", "spasms movie"],
+          "responses": ["The term 'spasms' refers to involuntary muscle contractions. The meaning of 'spasms' is similar in various languages, and it usually describes these muscle movements. If you have specific questions about the term or its usage, feel free to ask."]
+        },
+        {
+          "patterns": ["spasmus nutans", "spasms near heart", "spasms near belly button", "spasmus nutans video", "spasmus nutans cause", "spasmus nutans symptoms", "spasms neck", "spasms near rib cage", "spasms near diaphragm", "spasms near sternum", "spasms near anus", "spasms near bladder", "spasms near temple", "spasms near ribs", "spasms near liver"],
+          "responses": ["Spasmus nutans is a medical condition characterized by abnormal head movements in infants. Spasms near different parts of the body can have various causes, and it's important to consult a healthcare professional for evaluation and diagnosis if you experience concerning spasms."]
+        },
+        
+          {
+            "patterns": ["spasms of the muscles"],
+            "responses": ["Spasms of the muscles refer to involuntary and often painful muscle contractions. They can be caused by various factors, including muscle fatigue, dehydration, or underlying medical conditions. If you experience persistent muscle spasms, it's advisable to consult a healthcare professional for evaluation."]
+          },
+          {
+            "patterns": ["spasms of diaphragm"],
+            "responses": ["Spasms of the diaphragm, known as diaphragmatic spasms, can cause hiccups. They usually resolve on their own and are not a cause for concern unless they persist for an extended period."]
+          },
+          {
+            "patterns": ["spasms of the muscles of the jaw"],
+            "responses": ["Spasms of the muscles of the jaw can be caused by conditions like temporomandibular joint disorder (TMJ) or stress. Consult a dentist or healthcare professional for evaluation and treatment options."]
+          },
+          {
+            "patterns": ["spasms of esophagus"],
+            "responses": ["Esophageal spasms are abnormal contractions of the esophagus that can cause chest pain or difficulty swallowing. They may be related to gastroesophageal reflux disease (GERD) or other esophageal conditions. Consult a gastroenterologist for evaluation and treatment."]
+          },
+          {
+            "patterns": ["spasms on face"],
+            "responses": ["Facial spasms can occur due to various causes, including nerve issues or stress. If you experience persistent facial spasms, consider consulting a healthcare provider for evaluation."]
+          },
+          {
+            "patterns": ["spasms or convulsions"],
+            "responses": ["Spasms and convulsions are similar in that they involve involuntary muscle movements. Convulsions, however, are typically associated with more severe and uncontrolled muscle contractions. Both may have different underlying causes and require medical attention."]
+          },
+          {
+            "patterns": ["spasms or cramps"],
+            "responses": ["Spasms and cramps both involve muscle contractions but may be used interchangeably. They can be caused by muscle fatigue, dehydration, or underlying medical conditions."]
+          },
+          {
+            "patterns": ["spasms of intestines"],
+            "responses": ["Intestinal spasms are involuntary contractions of the intestinal muscles. They can be related to gastrointestinal issues like irritable bowel syndrome (IBS). Consult a gastroenterologist for evaluation and management."]
+          },
+          {
+            "patterns": ["spasms on left side of body"],
+            "responses": ["Spasms on the left side of the body can occur for various reasons, including muscle fatigue or neurological factors. If these spasms are persistent or concerning, seek medical evaluation."]
+          },
+          {
+            "patterns": ["spasms on right side of body"],
+            "responses": ["Spasms on the right side of the body can have different causes, including muscle fatigue or nerve issues. If they persist or worsen, consider consulting a healthcare professional for assessment."]
+          },
+          {
+            "patterns": ["spasms of the diaphragm cause what problem"],
+            "responses": ["Spasms of the diaphragm, causing hiccups, are generally harmless and temporary. However, if they persist or are accompanied by other symptoms, consult a healthcare provider to rule out underlying issues."]
+          },
+          {
+            "patterns": ["spasms on right side of abdomen"],
+            "responses": ["Spasms on the right side of the abdomen can have various causes, including gastrointestinal issues or muscle cramps. If you have persistent or severe spasms, consider seeking medical evaluation."]
+          },
+          {
+            "patterns": ["spasms on side of head"],
+            "responses": ["Spasms on the side of the head can be caused by muscle tension, stress, or neurological factors. If they become frequent or bothersome, consult a healthcare provider for assessment."]
+          },
+          {
+            "patterns": ["spasms of pain from stones in the kidney"],
+            "responses": ["Spasms of pain from kidney stones can be excruciating. It's crucial to seek immediate medical attention if you suspect kidney stones, as they may require treatment or intervention."]
+          },
+          {
+            "patterns": ["spasms on left side of chest"],
+            "responses": ["Spasms on the left side of the chest can have various causes, including muscle tension or heart-related issues. If you experience chest spasms, especially if accompanied by other concerning symptoms, seek medical evaluation."]
+          },
+          {
+            "patterns": ["spasms pronunciation", "spasms pain", "spasms pregnancy", "spasms parkinson's", "spasms post stroke", "spasms pancreas", "spasms peter fonda", "spasms pain in buttocks", "spasms post surgery", "spasms pelvic area", "spasms pectoral muscle", "spasms post gallbladder removal", "spasms pregnant belly", "spasms period", "spasms pelvic floor"],
+            "responses": ["The pronunciation of 'spasms' is /ˈspazəmz/. Spasms can be associated with various conditions, including pain, pregnancy-related issues, Parkinson's disease, or post-stroke complications. Treatment and management may vary depending on the underlying cause."]
+          },
+          {
+            "patterns": ["spasms quadriplegic", "spasms quetiapine", "spasms que significa", "spasms quad", "spasms quick", "quad spasms after leg day", "quad spasms after acl surgery", "quad spasms after knee surgery", "ql spasms", "quad spasms at night", "spasm quadratus lumborum", "spasm quad muscle", "quadriceps spasms", "quad spasms after hip replacement", "quadriceps spasms at night"],
+            "responses": ["Spasms in quadriplegic individuals or related to medications like quetiapine can have various implications. Quadriplegic spasms may require specialized care. Quad spasms after physical activity or surgery can occur due to muscle fatigue and may improve with rest and treatment."]
+          },
+          {
+            "patterns": ["spasms reason"],
+            "responses": ["The reason for spasms can vary widely and may include factors like muscle fatigue, dehydration, nerve issues, or underlying medical conditions. It's essential to identify the underlying cause to determine the appropriate treatment."]
+          },
+          {
+            "patterns": ["spasms right side under ribs", "spasms right side", "spasms right side of chest", "spasms remedy", "spasms right abdomen", "spasms rib cage", "spasms right side of back", "spasms right side abdomen", "spasms right arm", "spasms rectal area", "spasms ribs right side", "spasms relief", "spasms rabies", "spasms ruq"],
+            "responses": ["Spasms on the right side under the ribs, right abdomen, or other areas can have various causes, including muscle cramps, gastrointestinal issues, or neurological factors. Consult a healthcare provider for evaluation if you have concerns."]
+          },
+          {
+            "patterns": ["spasms symptoms"],
+            "responses": ["The symptoms of spasms can vary depending on the affected muscles and underlying causes. They may include pain, muscle twitching, or discomfort. If you experience persistent or severe symptoms, consider seeking medical evaluation."]
+          },
+          {
+            "patterns": ["spasms synonym", "spasms stomach", "spasma syrup", "spasma syrup ingredients", "spasma syrup in Hindi", "spasma syrup for babies", "spasma syrup reviews", "spasma syrup uses in Kannada", "spasma syrup 200 ml", "spasma syrup content", "spasma syrup uses in Marathi", "spasma syrup uses in Hindi", "spasma syrup side effects", "spasma syrup uses for cough"],
+            "responses": ["Synonyms for 'spasms' may include terms like muscle contractions or twitches. Spasms in the stomach or other areas can have various causes and may require specific treatments. Always follow the guidance of a healthcare provider."]
+          },
+          {
+            "patterns": ["spasms tablet"],
+            "responses": ["Spasms can sometimes be managed with medication, but the choice of tablet or treatment may depend on the underlying cause and the recommendation of a healthcare provider."]
+          },
+          {
+            "patterns": ["spasms treatment"],
+            "responses": ["Treatment for spasms can vary widely based on the underlying cause. It may include rest, hydration, medication, physical therapy, or other interventions. Consult a healthcare provider for proper evaluation and guidance."]
+          },
+          {
+            "patterns": ["spasms throat", "spasms throughout body", "spasms tagalog", "spasms top of foot", "spasms toes", "spasms toddler", "spasms types", "spasms that make you cough", "spasms top of stomach", "spasms that feel like baby kicks", "spasms that won't go away"],
+            "responses": ["Throat spasms or spasms throughout the body can have various causes, including nerve issues or muscle fatigue. The type and treatment of spasms depend on the underlying factors and should be evaluated by a healthcare professional."]
+          },
           
+            {
+              "patterns": ["spasms of the muscles"],
+              "responses": ["Spasms of the muscles refer to involuntary and often painful muscle contractions. They can be caused by various factors, including muscle fatigue, dehydration, or underlying medical conditions. If you experience persistent muscle spasms, it's advisable to consult a healthcare professional for evaluation."]
+            },
+            {
+              "patterns": ["spasms of diaphragm"],
+              "responses": ["Spasms of the diaphragm, known as diaphragmatic spasms, can cause hiccups. They usually resolve on their own and are not a cause for concern unless they persist for an extended period."]
+            },
+            {
+              "patterns": ["spasms of the muscles of the jaw"],
+              "responses": ["Spasms of the muscles of the jaw can be caused by conditions like temporomandibular joint disorder (TMJ) or stress. Consult a dentist or healthcare professional for evaluation and treatment options."]
+            },
+            {
+              "patterns": ["spasms of esophagus"],
+              "responses": ["Esophageal spasms are abnormal contractions of the esophagus that can cause chest pain or difficulty swallowing. They may be related to gastroesophageal reflux disease (GERD) or other esophageal conditions. Consult a gastroenterologist for evaluation and treatment."]
+            },
+            {
+              "patterns": ["spasms on face"],
+              "responses": ["Facial spasms can occur due to various causes, including nerve issues or stress. If you experience persistent facial spasms, consider consulting a healthcare provider for evaluation."]
+            },
+            {
+              "patterns": ["spasms or convulsions"],
+              "responses": ["Spasms and convulsions are similar in that they involve involuntary muscle movements. Convulsions, however, are typically associated with more severe and uncontrolled muscle contractions. Both may have different underlying causes and require medical attention."]
+            },
+            {
+              "patterns": ["spasms or cramps"],
+              "responses": ["Spasms and cramps both involve muscle contractions but may be used interchangeably. They can be caused by muscle fatigue, dehydration, or underlying medical conditions."]
+            },
+            {
+              "patterns": ["spasms of intestines"],
+              "responses": ["Intestinal spasms are involuntary contractions of the intestinal muscles. They can be related to gastrointestinal issues like irritable bowel syndrome (IBS). Consult a gastroenterologist for evaluation and management."]
+            },
+            {
+              "patterns": ["spasms on left side of body"],
+              "responses": ["Spasms on the left side of the body can occur for various reasons, including muscle fatigue or neurological factors. If these spasms are persistent or concerning, seek medical evaluation."]
+            },
+            {
+              "patterns": ["spasms on right side of body"],
+              "responses": ["Spasms on the right side of the body can have different causes, including muscle fatigue or nerve issues. If they persist or worsen, consider consulting a healthcare professional for assessment."]
+            },
+            {
+              "patterns": ["spasms of the diaphragm cause what problem"],
+              "responses": ["Spasms of the diaphragm, causing hiccups, are generally harmless and temporary. However, if they persist or are accompanied by other symptoms, consult a healthcare provider to rule out underlying issues."]
+            },
+            {
+              "patterns": ["spasms on right side of abdomen"],
+              "responses": ["Spasms on the right side of the abdomen can have various causes, including gastrointestinal issues or muscle cramps. If you have persistent or severe spasms, consider seeking medical evaluation."]
+            },
+            {
+              "patterns": ["spasms on side of head"],
+              "responses": ["Spasms on the side of the head can be caused by muscle tension, stress, or neurological factors. If they become frequent or bothersome, consult a healthcare provider for assessment."]
+            },
+            {
+              "patterns": ["spasms of pain from stones in the kidney"],
+              "responses": ["Spasms of pain from kidney stones can be excruciating. It's crucial to seek immediate medical attention if you suspect kidney stones, as they may require treatment or intervention."]
+            },
+            {
+              "patterns": ["spasms on left side of chest"],
+              "responses": ["Spasms on the left side of the chest can have various causes, including muscle tension or heart-related issues. If you experience chest spasms, especially if accompanied by other concerning symptoms, seek medical evaluation."]
+            },
+            {
+              "patterns": ["spasms pronunciation", "spasms pain", "spasms pregnancy", "spasms parkinson's", "spasms post stroke", "spasms pancreas", "spasms peter fonda", "spasms pain in buttocks", "spasms post surgery", "spasms pelvic area", "spasms pectoral muscle", "spasms post gallbladder removal", "spasms pregnant belly", "spasms period", "spasms pelvic floor"],
+              "responses": ["The pronunciation of 'spasms' is /ˈspazəmz/. Spasms can be associated with various conditions, including pain, pregnancy-related issues, Parkinson's disease, or post-stroke complications. Treatment and management may vary depending on the underlying cause."]
+            },
+            {
+              "patterns": ["spasms quadriplegic", "spasms quetiapine", "spasms que significa", "spasms quad", "spasms quick", "quad spasms after leg day", "quad spasms after acl surgery", "quad spasms after knee surgery", "ql spasms", "quad spasms at night", "spasm quadratus lumborum", "spasm quad muscle", "quadriceps spasms", "quad spasms after hip replacement", "quadriceps spasms at night"],
+              "responses": ["Spasms in quadriplegic individuals or related to medications like quetiapine can have various implications. Quadriplegic spasms may require specialized care. Quad spasms after physical activity or surgery can occur due to muscle fatigue and may improve with rest and treatment."]
+            },
+            {
+              "patterns": ["spasms reason"],
+              "responses": ["The reason for spasms can vary widely and may include factors like muscle fatigue, dehydration, nerve issues, or underlying medical conditions. It's essential to identify the underlying cause to determine the appropriate treatment."]
+            },
+            {
+              "patterns": ["spasms right side under ribs", "spasms right side", "spasms right side of chest", "spasms remedy", "spasms right abdomen", "spasms rib cage", "spasms right side of back", "spasms right side abdomen", "spasms right arm", "spasms rectal area", "spasms ribs right side", "spasms relief", "spasms rabies", "spasms ruq"],
+              "responses": ["Spasms on the right side under the ribs, right abdomen, or other areas can have various causes, including muscle cramps, gastrointestinal issues, or neurological factors. Consult a healthcare provider for evaluation if you have concerns."]
+            },
+            {
+              "patterns": ["spasms symptoms"],
+              "responses": ["The symptoms of spasms can vary depending on the affected muscles and underlying causes. They may include pain, muscle twitching, or discomfort. If you experience persistent or severe symptoms, consider seeking medical evaluation."]
+            },
+            {
+              "patterns": ["spasms synonym", "spasms stomach", "spasma syrup", "spasma syrup ingredients", "spasma syrup in Hindi", "spasma syrup for babies", "spasma syrup reviews", "spasma syrup uses in Kannada", "spasma syrup 200 ml", "spasma syrup content", "spasma syrup uses in Marathi", "spasma syrup uses in Hindi", "spasma syrup side effects", "spasma syrup uses for cough"],
+              "responses": ["Synonyms for 'spasms' may include terms like muscle contractions or twitches. Spasms in the stomach or other areas can have various causes and may require specific treatments. Always follow the guidance of a healthcare provider."]
+            },
+            {
+              "patterns": ["spasms tablet"],
+              "responses": ["Spasms can sometimes be managed with medication, but the choice of tablet or treatment may depend on the underlying cause and the recommendation of a healthcare provider."]
+            },
+            {
+              "patterns": ["spasms treatment"],
+              "responses": ["Treatment for spasms can vary widely based on the underlying cause. It may include rest, hydration, medication, physical therapy, or other interventions. Consult a healthcare provider for proper evaluation and guidance."]
+            },
+            {
+              "patterns": ["spasms throat", "spasms throughout body", "spasms tagalog", "spasms top of foot", "spasms toes", "spasms toddler", "spasms types", "spasms that make you cough", "spasms top of stomach", "spasms that feel like baby kicks", "spasms that won't go away"],
+              "responses": ["Throat spasms or spasms throughout the body can have various causes, including nerve issues or muscle fatigue. The type and treatment of spasms depend on the underlying factors and should be evaluated by a healthcare professional."]
+            },
+              {
+                "patterns": ["spasms under right rib"],
+                "responses": ["Spasms under the right rib can have various causes, including muscle cramps, gastrointestinal issues, or referred pain from other areas. If these spasms persist or worsen, consider seeking medical evaluation."]
+              },
+              {
+                "patterns": ["spasms under left breast", "spasms under right breast", "spasms under eye", "spasms under left rib", "spasms upper abdomen", "spasms under shoulder blade", "spasms upper back", "spasms under chin", "spasms upper right abdomen", "spasms under armpit", "spasms upper right quadrant", "spasms under left shoulder blade", "spasms under left armpit", "spasms under belly button"],
+                "responses": ["Spasms in various areas of the body can have different causes, including muscle tension or nerve-related issues. It's advisable to consult a healthcare provider for a proper assessment if you experience persistent spasms in these areas."]
+              },
+              {
+                "patterns": ["spasms vs cramps"],
+                "responses": ["Spasms and cramps are both involuntary muscle contractions, but cramps are often characterized by intense pain and can be related to muscle fatigue or dehydration. The terms are sometimes used interchangeably."]
+              },
+              {
+                "patterns": ["spasms vs seizures", "spasms vs twitching", "spasms vs spasticity", "spasms vs fasciculations", "spasms and tremors", "spasms vitamin deficiency", "spasms vs tremors", "spasms voice box", "spasms vulva", "spasms vascular", "spasms veins", "vasospasm", "spasm vs sprain", "spasms with diarrhea"],
+                "responses": ["Spasms can be confused with various conditions, such as seizures, twitching, spasticity, or fasciculations. The distinction depends on the specific characteristics and underlying causes. Consult a healthcare professional for proper diagnosis and evaluation."]
+              },
+              {
+                "patterns": ["spasms when lying down", "spasms when urinating", "spasms while pregnant", "spasms with sciatica", "spasms with catheter", "spasms while pooping", "spasms with uti", "spasms when swallowing", "spasms with ms", "spasms when breathing", "spasms when i pee", "spasms when relaxing", "spasms when stretching", "spasms while eating", "muscle spasms years after c-section"],
+                "responses": ["Spasms occurring during various activities or conditions can have different underlying causes. Some may be related to muscle tension, nerve issues, or specific medical conditions. Consult a healthcare provider for assessment and guidance."]
+              },
+              {
+                "patterns": ["infantile spasms youtube", "spasms in your back", "spasms in your stomach", "spasms in your chest", "spasms in your anus", "spasms in your head", "spasms in your esophagus", "spasms in your feet", "spasms in your legs", "spasms in your neck", "back spasms yoga", "spasms in 1 year old", "spasms all over your body", "zoloft spasms"],
+                "responses": ["Spasms in different areas of the body can have various causes and may require specific evaluation and treatment. Consulting a healthcare provider is advisable to determine the underlying issues."]
+              },
+              {
+                "patterns": ["spasm značenje", "zonisamide spasms", "zingers spasms", "spasm z", "infantile spasms zero to finals", "muscle spasms zinc", "muscle spasms zinc deficiency", "leg spasms zoloft", "spasm znaczenie", "spasm zespół"],
+                "responses": ["The meaning of 'spasm značenje' is related to spasms or muscle contractions. Conditions like infantile spasms or muscle spasms due to zinc deficiency can have specific implications and require medical attention."]
+              }
+            
+            
+                    
                 
-            
+      
+      
         
-    
-        
-            
-        
-            
+                
  ]
   
