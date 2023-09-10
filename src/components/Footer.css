@@ -4,8 +4,16 @@
   color: white;
   padding: 20px;
   width: 100%;
+  /* position:fixed; */
+  bottom: 0;
 }
-
+@media (min-height:1980px) {
+  .app-footer{
+    position: fixed;
+    bottom: 0;
+  }
+  
+}
 /* Logo */
 .footer-logo img {
   max-width: 100px;
@@ -80,8 +88,14 @@
     justify-content: center;
   }
 }
+@media (min-width:0px) and (max-width:300px) {
+  .hero h1{
+    font-size:larger;
+  }
+  
+}
 
-@media (max-width: 576px) {
+@media (max-width: 576px)  {
   /* Adjust padding for smaller screens */
   .app-footer {
     padding: 15px;

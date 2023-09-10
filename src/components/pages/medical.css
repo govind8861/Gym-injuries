@@ -3,10 +3,12 @@
   padding: 0;
 }
 .chat-interface {
-  background-image: url('https://c4.wallpaperflare.com/wallpaper/792/639/808/pattern-monochrome-telegram-logo-cats-hd-wallpaper-preview.jpg');
-  margin: auto;
-  border: 1px solid #ccc;
+  background-image: url('https://cdn-ankjd.nitrocdn.com/OjLCEthUUXPAtvGuKItSofVslLLbuvft/assets/images/optimized/rev-8d95660/www.getfoundquick.com/wp-content/uploads/2023/01/shutterstock_1633125442-scaled.jpg');
+  /* margin:0 auto; */
+  /* border: 1px solid #ccc; */
   /* height: 100vh; */
+  background-attachment: fixed;
+  background-size: cover;
   padding: 0px;
   background-color: #f7f7f7;
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
@@ -19,7 +21,7 @@
   
   flex-direction: column;
   align-items: flex-start;
-  height: 80vh;
+  height: 100vh;
   overflow-y: auto;
 }
 
@@ -91,11 +93,11 @@ button {
     background-color: #f0f0f0;
     padding-left:10px;
     padding-top: 10px;padding-bottom: 0px;
-    margin-bottom: 30px;
+    margin-bottom: 60px;
   }
   @media (min-height:800px) {
     
     .chat-interface{
-      height: 92vh;
+      height: 100vh;
     }
   }

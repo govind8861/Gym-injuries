@@ -34,8 +34,8 @@ const Home = () => {
 					</p>
 				</div>
 				<div className="row">
-					<div className="col-sm col col-md">
-						<div className="shadow p-4">
+					<div className="col-md-6 col-lg-3 col-xl-3">
+						<div className="card p-4">
 							<div className="card-body">
 								<img
 									src="/assets/img/desc1.png"
@@ -49,9 +49,9 @@ const Home = () => {
 							</div>
 						</div>
 					</div>
-					&#10140;
-					<div className="col-sm col col-md">
-						<div className="shadow p-4">
+				
+					<div className="col-md-6 col-lg-3 col-xl-3">
+						<div className="card p-4">
 							<div className="card-body">
 								<img
 									src="/assets/img/submit.jpg"
@@ -65,9 +65,9 @@ const Home = () => {
 							</div>
 						</div>
 					</div>
-					&#10140;
-					<div className="col-sm col col-md">
-						<div className="shadow p-4">
+			
+					<div className="col-md-6 col-lg-3 col-xl-3">
+						<div className="card p-4">
 							<div className="card-body">
 								<img
 									src="/assets/img/response.png"
@@ -81,9 +81,9 @@ const Home = () => {
 							</div>
 						</div>
 					</div>
-					&#10140;
-					<div className="col-sm col col-md">
-						<div className="shadow p-4">
+					
+					<div className="col-md-6 col-lg-3 col-xl-3">
+						<div className="card p-4">
 							<div className="card-body">
 								<img
 									src="/assets/img/action.jpg"
